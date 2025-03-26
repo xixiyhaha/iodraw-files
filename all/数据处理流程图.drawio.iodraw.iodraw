@@ -63,15 +63,6 @@
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-39" value="本地缓存警告" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-46" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZRwrgAKDLN2eCvwsKrP9-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="430" as="sourcePoint" />
-            <mxPoint x="230" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-47" value="校正后数据流" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="ZRwrgAKDLN2eCvwsKrP9-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-48" value="ENVI SDK" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="170" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -88,18 +79,21 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-53" value="原始数据流" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-12" target="ZRwrgAKDLN2eCvwsKrP9-14">
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-53" value="未校正数据流" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-12" target="ZRwrgAKDLN2eCvwsKrP9-14">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="240" y="240" as="sourcePoint" />
             <mxPoint x="240" y="280" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="240" y="330" />
-              <mxPoint x="240" y="260" />
-              <mxPoint x="370" y="260" />
-              <mxPoint x="370" y="280" />
-              <mxPoint x="230" y="280" />
+              <mxPoint x="230" y="330" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-54" value="原始数据流" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="250" as="sourcePoint" />
+            <mxPoint x="250" y="290" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
