@@ -15,9 +15,6 @@
             <mxPoint x="235" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-12" target="ZRwrgAKDLN2eCvwsKrP9-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-12" value="原始数据存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -87,6 +84,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-43" value="原始数据流" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="ZRwrgAKDLN2eCvwsKrP9-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-44" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="229.43" y="330" as="sourcePoint" />
+            <mxPoint x="229.43" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-45" value="原始数据流" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="ZRwrgAKDLN2eCvwsKrP9-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
