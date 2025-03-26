@@ -36,8 +36,14 @@
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-16" value="分析模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-18" target="ZRwrgAKDLN2eCvwsKrP9-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-18" value="报告生成模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-20" value="用户终端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
