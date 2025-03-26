@@ -25,7 +25,7 @@
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-31" value="&lt;div style=&quot;text-align: left;&quot;&gt;- 分布式处理引擎&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 对象存储&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 时空元数据库&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="520" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YYH6RmEYoX5WBcHhXiZW-32" value="&lt;div style=&quot;text-align: left;&quot;&gt;—Web前端&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;—数据分析工具&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YYH6RmEYoX5WBcHhXiZW-32" value="&lt;div style=&quot;text-align: left;&quot;&gt;- Web前端&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 数据分析工具&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="520" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-34" value="客户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
