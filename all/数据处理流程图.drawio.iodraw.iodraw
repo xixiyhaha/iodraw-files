@@ -37,6 +37,9 @@
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-35" value="数据校验" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="470" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-70" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-37" target="ZRwrgAKDLN2eCvwsKrP9-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-37" value="云存储" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="570" width="120" height="60" as="geometry" />
         </mxCell>
