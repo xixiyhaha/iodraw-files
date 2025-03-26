@@ -29,7 +29,7 @@
           <mxGeometry x="180" y="520" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-34" value="客户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="620" width="30" height="60" as="geometry" />
+          <mxGeometry x="330" y="610" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-35" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="YYH6RmEYoX5WBcHhXiZW-34" target="YYH6RmEYoX5WBcHhXiZW-32" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
