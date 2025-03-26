@@ -26,7 +26,7 @@
           <mxGeometry x="160" y="330" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-30" value="&lt;div style=&quot;text-align: left;&quot;&gt;—数据采集软件&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;—预处理工具链&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="340" width="140" height="50" as="geometry" />
+          <mxGeometry x="414" y="330" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-31" value="&lt;div style=&quot;text-align: left;&quot;&gt;—分布式处理引擎&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;—数据库&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="665" y="340" width="150" height="50" as="geometry" />
