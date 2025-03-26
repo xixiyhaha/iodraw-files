@@ -29,13 +29,13 @@
           <mxGeometry x="430" y="340" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-31" value="&lt;div style=&quot;text-align: left;&quot;&gt;—分布式处理引擎&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;—数据库&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="710" y="340" width="150" height="50" as="geometry" />
+          <mxGeometry x="665" y="340" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-32" value="&lt;div style=&quot;text-align: left;&quot;&gt;—Web前段&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;—数据分析工具&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="510" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-34" value="客户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="660" width="30" height="60" as="geometry" />
+          <mxGeometry x="280" y="620" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-35" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="YYH6RmEYoX5WBcHhXiZW-34" target="YYH6RmEYoX5WBcHhXiZW-32" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
