@@ -92,7 +92,7 @@
             <mxPoint x="229.43" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-45" value="原始数据流" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="ZRwrgAKDLN2eCvwsKrP9-44">
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-45" value="未校正数据流" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="ZRwrgAKDLN2eCvwsKrP9-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
