@@ -67,10 +67,10 @@
           <mxGeometry x="960" y="500" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L4Gw1seDw0PPWhDL6rnX-4" value="设置飞行高度" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="645" y="200" width="130" height="50" as="geometry" />
+          <mxGeometry x="690" y="220" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L4Gw1seDw0PPWhDL6rnX-5" value="设置飞行范围" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="690" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L4Gw1seDw0PPWhDL6rnX-6" value="更换电池" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="340" width="120" height="40" as="geometry" />
