@@ -80,24 +80,17 @@
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-57" value="ArcGIS API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-60" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-18">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="210" y="800" as="sourcePoint" />
-            <mxPoint x="350" y="730" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="290" y="740" />
-              <mxPoint x="322" y="740" />
-              <mxPoint x="322" y="710" />
-              <mxPoint x="413" y="710" />
-              <mxPoint x="413" y="730" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-61" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="390" y="450" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-62" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="446" y="380" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-64" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-18">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="240" y="640" as="sourcePoint" />
+            <mxPoint x="350" y="730" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
