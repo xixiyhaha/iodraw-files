@@ -80,14 +80,13 @@
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-57" value="ArcGIS API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-60" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-18" target="ZRwrgAKDLN2eCvwsKrP9-57">
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-60" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-18" target="ZRwrgAKDLN2eCvwsKrP9-57">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="210" y="800" as="sourcePoint" />
             <mxPoint x="370" y="800" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="290" y="760" />
-              <mxPoint x="290" y="770" />
-              <mxPoint x="322" y="770" />
+              <mxPoint x="290" y="740" />
+              <mxPoint x="322" y="740" />
               <mxPoint x="322" y="710" />
               <mxPoint x="413" y="710" />
             </Array>
