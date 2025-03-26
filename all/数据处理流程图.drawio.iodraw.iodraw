@@ -27,10 +27,8 @@
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-14" target="ZRwrgAKDLN2eCvwsKrP9-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="400" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-14" target="ZRwrgAKDLN2eCvwsKrP9-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-14" value="预处理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="370" width="120" height="60" as="geometry" />
@@ -75,6 +73,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="200" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-35" value="数据校验" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="360" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
