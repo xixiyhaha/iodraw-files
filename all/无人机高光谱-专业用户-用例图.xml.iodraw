@@ -94,7 +94,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L4Gw1seDw0PPWhDL6rnX-10" value="专业用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="540" width="60" height="20" as="geometry" />
+          <mxGeometry x="930" y="490" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="L4Gw1seDw0PPWhDL6rnX-11" value="查看储存卡状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="470" width="120" height="40" as="geometry" />
