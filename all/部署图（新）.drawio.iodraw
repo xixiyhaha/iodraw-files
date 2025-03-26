@@ -7,7 +7,7 @@
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-11" value="边缘层（无人机)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="140" y="290" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YYH6RmEYoX5WBcHhXiZW-13" value="云服务器（AWS EC2/Azure VM)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="YYH6RmEYoX5WBcHhXiZW-13" value="云端层（AWS EC2/Azure VM)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="650" y="290" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-14" value="终端用户设备（PC/平板电脑等）" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -44,12 +44,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="455" y="460" as="sourcePoint" />
             <mxPoint x="540" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YYH6RmEYoX5WBcHhXiZW-48" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.075;entryY=0.432;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="YYH6RmEYoX5WBcHhXiZW-30" target="YYH6RmEYoX5WBcHhXiZW-31" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="370" y="500" as="sourcePoint" />
-            <mxPoint x="530" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
