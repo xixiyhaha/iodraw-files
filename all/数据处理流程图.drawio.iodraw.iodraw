@@ -57,11 +57,6 @@
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-29" value="PDF/图像报告流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="640" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ZRwrgAKDLN2eCvwsKrP9-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="200" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-35" target="ZRwrgAKDLN2eCvwsKrP9-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -72,7 +67,7 @@
           <mxGeometry x="390" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-37" value="云平台" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="478" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="468" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-39" value="本地缓存警告" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="370" width="120" height="60" as="geometry" />
