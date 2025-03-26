@@ -40,7 +40,7 @@
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-37" value="云存储" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-39" value="本地缓存警告" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-39" value="本地缓存&lt;div&gt;用户警告&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="505" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-55" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-48" target="ZRwrgAKDLN2eCvwsKrP9-16">
@@ -90,7 +90,7 @@
           <mxGeometry x="390" y="450" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-62" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="455" y="380" width="50" height="30" as="geometry" />
+          <mxGeometry x="446" y="380" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
