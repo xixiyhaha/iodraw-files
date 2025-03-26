@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="96qFQ0N2vUkSXw9qIuJY-8" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="195" y="390" width="40" height="60" as="geometry" />
+          <mxGeometry x="190" y="385" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="96qFQ0N2vUkSXw9qIuJY-9" value="数据记录员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="175" y="460" width="80" height="20" as="geometry" />
@@ -44,10 +44,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="96qFQ0N2vUkSXw9qIuJY-13" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="580" width="40" height="60" as="geometry" />
+          <mxGeometry x="190" y="585" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="96qFQ0N2vUkSXw9qIuJY-14" value="数据分析员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="660" width="80" height="20" as="geometry" />
+          <mxGeometry x="170" y="650" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="96qFQ0N2vUkSXw9qIuJY-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="96qFQ0N2vUkSXw9qIuJY-15" target="96qFQ0N2vUkSXw9qIuJY-18" edge="1">
           <mxGeometry relative="1" as="geometry">
