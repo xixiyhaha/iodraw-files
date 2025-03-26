@@ -52,7 +52,10 @@
           <mxGeometry x="215" y="770" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-25" value="原始数据流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="238" width="80" height="30" as="geometry" />
+          <mxGeometry x="230" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-26" value="未校正数据流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="338" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
