@@ -7,7 +7,7 @@
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-11" value="边缘层（无人机)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="140" y="290" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YYH6RmEYoX5WBcHhXiZW-13" value="云端层（AWS EC2/Azure VM)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="YYH6RmEYoX5WBcHhXiZW-13" value="云端层（AWS EC2/Azure VM)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="399" y="465" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-14" value="用户层（终端层）" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -26,7 +26,7 @@
           <mxGeometry x="414" y="520" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-32" value="&lt;div style=&quot;text-align: left;&quot;&gt;- Web前端&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 数据分析工具&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="520" width="120" height="50" as="geometry" />
+          <mxGeometry x="170" y="520" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-34" value="客户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="610" width="30" height="60" as="geometry" />
