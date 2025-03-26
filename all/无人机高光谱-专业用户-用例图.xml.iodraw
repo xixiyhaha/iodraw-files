@@ -8,7 +8,7 @@
           <mxGeometry x="290" y="160" width="580" height="550" as="geometry" />
         </mxCell>
         <mxCell id="96qFQ0N2vUkSXw9qIuJY-3" value="&lt;h1&gt;无人机高光谱&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="475" y="190" width="160" height="20" as="geometry" />
+          <mxGeometry x="500" y="190" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="96qFQ0N2vUkSXw9qIuJY-4" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="220" width="40" height="60" as="geometry" />
