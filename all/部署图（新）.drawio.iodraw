@@ -320,6 +320,114 @@
         <mxCell id="2iLUKm0YpRFgmtcU9Byq-128" value="发表论文" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="1055" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2iLUKm0YpRFgmtcU9Byq-130" target="2iLUKm0YpRFgmtcU9Byq-134">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="800" />
+              <mxPoint x="570" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-130" value="原始数据采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-131" value="环境数据记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2iLUKm0YpRFgmtcU9Byq-134" target="2iLUKm0YpRFgmtcU9Byq-137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2iLUKm0YpRFgmtcU9Byq-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="880.1666666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-134" value="辐射、大气、校正" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-135" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2iLUKm0YpRFgmtcU9Byq-131">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="1030" as="sourcePoint" />
+            <mxPoint x="570" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="800" />
+              <mxPoint x="620" y="800" />
+              <mxPoint x="590" y="800" />
+              <mxPoint x="570" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2iLUKm0YpRFgmtcU9Byq-137" target="2iLUKm0YpRFgmtcU9Byq-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-137" value="配准误差&lt;div&gt;＞阈值&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="990" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-138" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2iLUKm0YpRFgmtcU9Byq-137" target="2iLUKm0YpRFgmtcU9Byq-134">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="1030" as="sourcePoint" />
+            <mxPoint x="360" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="1030" />
+              <mxPoint x="440" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-139" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2iLUKm0YpRFgmtcU9Byq-141" target="2iLUKm0YpRFgmtcU9Byq-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-141" value="噪声滤波" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440.5" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-142" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="559" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2iLUKm0YpRFgmtcU9Byq-144" target="2iLUKm0YpRFgmtcU9Byq-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-144" value="特征提取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2iLUKm0YpRFgmtcU9Byq-146" target="2iLUKm0YpRFgmtcU9Byq-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-146" value="分类分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-147" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2iLUKm0YpRFgmtcU9Byq-148">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499.5" y="1120" as="sourcePoint" />
+            <mxPoint x="709.5" y="1130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="579.5" y="1120" />
+              <mxPoint x="639.5" y="1120" />
+              <mxPoint x="639.5" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-148" value="几何校正" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="579.5" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-149" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2iLUKm0YpRFgmtcU9Byq-148" target="2iLUKm0YpRFgmtcU9Byq-144">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="929" y="1140" as="sourcePoint" />
+            <mxPoint x="709" y="1430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="1260" />
+              <mxPoint x="570" y="1260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2iLUKm0YpRFgmtcU9Byq-150" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1490" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
