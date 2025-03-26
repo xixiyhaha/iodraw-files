@@ -77,11 +77,17 @@
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-35" target="ZRwrgAKDLN2eCvwsKrP9-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-35" target="ZRwrgAKDLN2eCvwsKrP9-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-35" value="数据校验" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-37" value="云平台" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-39" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
