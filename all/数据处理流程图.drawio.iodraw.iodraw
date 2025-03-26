@@ -16,6 +16,9 @@
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-14" value="预处理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-76" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-16" target="ZRwrgAKDLN2eCvwsKrP9-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-16" value="分类结果流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="890" width="120" height="60" as="geometry" />
         </mxCell>
@@ -43,6 +46,9 @@
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-37" value="云存储" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-75" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-39" target="ZRwrgAKDLN2eCvwsKrP9-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-39" value="本地缓存&lt;div&gt;用户警告&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="335" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -65,12 +71,6 @@
             <mxPoint x="240" y="280" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-56" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-16" target="ZRwrgAKDLN2eCvwsKrP9-18">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="40" y="989" as="sourcePoint" />
-            <mxPoint x="200" y="989" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-57" value="ArcGIS API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
