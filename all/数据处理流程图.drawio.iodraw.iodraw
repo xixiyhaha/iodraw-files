@@ -88,11 +88,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-53" value="原始数据流" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-53" value="原始数据流" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-12" target="ZRwrgAKDLN2eCvwsKrP9-14">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="240" y="240" as="sourcePoint" />
             <mxPoint x="240" y="280" as="targetPoint" />
             <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="240" y="330" />
+              <mxPoint x="240" y="260" />
+              <mxPoint x="370" y="260" />
+              <mxPoint x="370" y="280" />
+              <mxPoint x="230" y="280" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
