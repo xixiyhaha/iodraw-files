@@ -69,7 +69,7 @@
         <mxCell id="L4Gw1seDw0PPWhDL6rnX-4" value="设置飞行参数" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="220" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L4Gw1seDw0PPWhDL6rnX-5" value="设置飞行范围" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="L4Gw1seDw0PPWhDL6rnX-5" value="侦测机器状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L4Gw1seDw0PPWhDL6rnX-6" value="更换电池" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
