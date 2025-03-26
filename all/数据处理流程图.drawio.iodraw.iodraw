@@ -7,14 +7,6 @@
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-9" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-10" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="215" y="110" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-11" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="ZRwrgAKDLN2eCvwsKrP9-10" parent="1" target="ZRwrgAKDLN2eCvwsKrP9-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="235" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-12" value="原始数据存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -35,9 +27,6 @@
         </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-20" value="用户终端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="700" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-23" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="215" y="932" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-35" target="ZRwrgAKDLN2eCvwsKrP9-37">
           <mxGeometry relative="1" as="geometry" />
