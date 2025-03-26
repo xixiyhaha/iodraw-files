@@ -26,7 +26,7 @@
           <mxGeometry x="170" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-20" value="用户终端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-35" target="ZRwrgAKDLN2eCvwsKrP9-37">
           <mxGeometry relative="1" as="geometry" />
@@ -84,6 +84,13 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="210" y="800" as="sourcePoint" />
             <mxPoint x="370" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="760" />
+              <mxPoint x="290" y="770" />
+              <mxPoint x="322" y="770" />
+              <mxPoint x="322" y="710" />
+              <mxPoint x="413" y="710" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-61" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
