@@ -28,7 +28,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-16" value="分类结果流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-18" target="ZRwrgAKDLN2eCvwsKrP9-20">
           <mxGeometry relative="1" as="geometry" />
@@ -63,14 +63,11 @@
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-39" value="本地缓存警告" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-55" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-48" target="ZRwrgAKDLN2eCvwsKrP9-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-48" value="ENVI SDK" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="170" y="480" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-51" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-48" target="ZRwrgAKDLN2eCvwsKrP9-16">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="210" y="620" as="sourcePoint" />
-            <mxPoint x="370" y="620" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-52" value="原始数据流" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-9" target="ZRwrgAKDLN2eCvwsKrP9-12">
           <mxGeometry width="160" relative="1" as="geometry">
