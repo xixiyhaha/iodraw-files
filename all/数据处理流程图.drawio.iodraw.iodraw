@@ -22,6 +22,9 @@
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-18" target="ZRwrgAKDLN2eCvwsKrP9-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-58" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="ZRwrgAKDLN2eCvwsKrP9-18" target="ZRwrgAKDLN2eCvwsKrP9-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-18" value="报告生成模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="700" width="120" height="60" as="geometry" />
         </mxCell>
@@ -78,6 +81,9 @@
             <mxPoint x="180" y="680" as="sourcePoint" />
             <mxPoint x="340" y="680" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-57" value="报告生成模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
