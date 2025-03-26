@@ -10,7 +10,7 @@
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-13" value="云端层（AWS EC2/Azure VM)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="650" y="290" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YYH6RmEYoX5WBcHhXiZW-14" value="终端用户设备（PC/平板电脑等）" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="YYH6RmEYoX5WBcHhXiZW-14" value="用户层（终端层）" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="390" y="465" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-16" value="本地层（地面站）&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
