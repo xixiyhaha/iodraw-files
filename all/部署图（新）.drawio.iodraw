@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2iLUKm0YpRFgmtcU9Byq-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="500" y="450" width="40" height="20" as="geometry" />
+          <mxGeometry x="70" y="351" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
