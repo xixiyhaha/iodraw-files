@@ -51,8 +51,8 @@
         <mxCell id="ZRwrgAKDLN2eCvwsKrP9-23" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="215" y="770" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235" y="238" width="50" height="30" as="geometry" />
+        <mxCell id="ZRwrgAKDLN2eCvwsKrP9-25" value="原始数据流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="238" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
