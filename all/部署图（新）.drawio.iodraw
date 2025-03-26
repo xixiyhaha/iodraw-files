@@ -19,7 +19,7 @@
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-26" value="&lt;div style=&quot;text-align: left;&quot;&gt;- 高光谱传感器&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 飞行控制器&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 嵌入式处理模块&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="340" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YYH6RmEYoX5WBcHhXiZW-30" value="&lt;div style=&quot;text-align: left;&quot;&gt;—数据采集软件&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;—预处理工具链&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;—元数据库&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YYH6RmEYoX5WBcHhXiZW-30" value="&lt;div style=&quot;text-align: left;&quot;&gt;- 数据采集软件&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 预处理工具链&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 元数据库&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="340" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YYH6RmEYoX5WBcHhXiZW-31" value="&lt;div style=&quot;text-align: left;&quot;&gt;—分布式处理引擎&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;—数据库&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
