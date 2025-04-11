@@ -121,8 +121,8 @@
         <mxCell id="BYN9fb7k8TEmT9bRSxVv-5" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="20" width="160" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BYN9fb7k8TEmT9bRSxVv-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="70" width="50" height="100" as="geometry" />
+        <mxCell id="BYN9fb7k8TEmT9bRSxVv-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="60" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
