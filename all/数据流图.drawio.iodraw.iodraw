@@ -54,7 +54,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9PgCB6bPMW_31jUP7jhT-50" value="噪声滤波" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240.5" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9PgCB6bPMW_31jUP7jhT-52" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="359" y="460" width="60" height="30" as="geometry" />
@@ -73,19 +73,8 @@
         <mxCell id="9PgCB6bPMW_31jUP7jhT-55" value="分类分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9PgCB6bPMW_31jUP7jhT-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="9PgCB6bPMW_31jUP7jhT-58" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="299.5" y="510" as="sourcePoint" />
-            <mxPoint x="509.5" y="520" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="379.5" y="510" />
-              <mxPoint x="439.5" y="510" />
-              <mxPoint x="439.5" y="540" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9PgCB6bPMW_31jUP7jhT-58" value="几何校正" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="379.5" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9PgCB6bPMW_31jUP7jhT-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9PgCB6bPMW_31jUP7jhT-58" target="9PgCB6bPMW_31jUP7jhT-53" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
