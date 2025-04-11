@@ -16,7 +16,7 @@
           <mxGeometry x="230" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9PgCB6bPMW_31jUP7jhT-40" value="环境数据记录" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="390" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9PgCB6bPMW_31jUP7jhT-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9PgCB6bPMW_31jUP7jhT-41" target="9PgCB6bPMW_31jUP7jhT-47" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -30,18 +30,6 @@
         </mxCell>
         <mxCell id="9PgCB6bPMW_31jUP7jhT-41" value="辐射、大气、校正" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9PgCB6bPMW_31jUP7jhT-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9PgCB6bPMW_31jUP7jhT-40" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="420" as="sourcePoint" />
-            <mxPoint x="370" y="240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="450" y="190" />
-              <mxPoint x="420" y="190" />
-              <mxPoint x="390" y="190" />
-              <mxPoint x="370" y="190" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="9PgCB6bPMW_31jUP7jhT-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9PgCB6bPMW_31jUP7jhT-47" target="9PgCB6bPMW_31jUP7jhT-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -112,28 +100,11 @@
         <mxCell id="Hww125l-X5vEwoMmXBde-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="355" y="880" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BYN9fb7k8TEmT9bRSxVv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BYN9fb7k8TEmT9bRSxVv-0">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="23" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BYN9fb7k8TEmT9bRSxVv-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BYN9fb7k8TEmT9bRSxVv-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="555" y="-75" width="40" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="BYN9fb7k8TEmT9bRSxVv-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="9PgCB6bPMW_31jUP7jhT-39">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="40" as="sourcePoint" />
-            <mxPoint x="355" y="40" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BYN9fb7k8TEmT9bRSxVv-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="9PgCB6bPMW_31jUP7jhT-40">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="40" as="sourcePoint" />
-            <mxPoint x="560" y="100" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
