@@ -11,7 +11,7 @@
           <mxGeometry x="310" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9PgCB6bPMW_31jUP7jhT-40" value="环境数据记录" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="540" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="499.5" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9PgCB6bPMW_31jUP7jhT-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9PgCB6bPMW_31jUP7jhT-41" target="9PgCB6bPMW_31jUP7jhT-47" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -100,9 +100,6 @@
         </mxCell>
         <mxCell id="BYN9fb7k8TEmT9bRSxVv-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="-100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BYN9fb7k8TEmT9bRSxVv-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="555" y="-75" width="40" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
