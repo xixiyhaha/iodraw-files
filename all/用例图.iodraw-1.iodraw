@@ -97,9 +97,6 @@
             <mxPoint x="760" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L4Gw1seDw0PPWhDL6rnX-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="L4Gw1seDw0PPWhDL6rnX-17" target="96qFQ0N2vUkSXw9qIuJY-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="L4Gw1seDw0PPWhDL6rnX-17" value="科学研究" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="335" width="120" height="45" as="geometry" />
         </mxCell>
