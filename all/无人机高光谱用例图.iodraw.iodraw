@@ -121,8 +121,11 @@
         <mxCell id="vgyBVSzbA6ZIvh6DjG86-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="277.5" y="40" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vgyBVSzbA6ZIvh6DjG86-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="1000" width="120" height="60" as="geometry" />
+        <mxCell id="vgyBVSzbA6ZIvh6DjG86-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vgyBVSzbA6ZIvh6DjG86-3" target="C1kjKJlU5VJV6u6oNLq7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vgyBVSzbA6ZIvh6DjG86-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
