@@ -141,8 +141,8 @@
             <mxPoint x="460" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SwxpuAnKaXBxtSd61690-13" value="上传或保存数据" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="450" width="120" height="40" as="geometry" />
+        <mxCell id="SwxpuAnKaXBxtSd61690-13" value="处理储存异常" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SwxpuAnKaXBxtSd61690-14" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.969;exitY=0.644;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="SwxpuAnKaXBxtSd61690-13" source="96qFQ0N2vUkSXw9qIuJY-10">
           <mxGeometry width="160" relative="1" as="geometry">
