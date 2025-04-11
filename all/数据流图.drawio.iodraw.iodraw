@@ -50,11 +50,8 @@
         <mxCell id="9PgCB6bPMW_31jUP7jhT-49" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="260" y="390" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9PgCB6bPMW_31jUP7jhT-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9PgCB6bPMW_31jUP7jhT-50" target="9PgCB6bPMW_31jUP7jhT-53" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9PgCB6bPMW_31jUP7jhT-50" value="噪声滤波" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9PgCB6bPMW_31jUP7jhT-52" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="359" y="460" width="60" height="30" as="geometry" />
@@ -74,17 +71,7 @@
           <mxGeometry x="310" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9PgCB6bPMW_31jUP7jhT-58" value="几何校正" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="490" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9PgCB6bPMW_31jUP7jhT-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9PgCB6bPMW_31jUP7jhT-58" target="9PgCB6bPMW_31jUP7jhT-53" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="729" y="530" as="sourcePoint" />
-            <mxPoint x="509" y="820" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="440" y="650" />
-              <mxPoint x="370" y="650" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="320" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hww125l-X5vEwoMmXBde-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="355" y="880" width="30" height="30" as="geometry" />
