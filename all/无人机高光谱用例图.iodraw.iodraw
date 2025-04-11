@@ -110,7 +110,7 @@
         <mxCell id="C1kjKJlU5VJV6u6oNLq7-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;PingFang SC&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(252, 252, 252); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;低空悬停测试传感器数据流稳定性&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C1kjKJlU5VJV6u6oNLq7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="C1kjKJlU5VJV6u6oNLq7-10" edge="1">
+        <mxCell id="C1kjKJlU5VJV6u6oNLq7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="C1kjKJlU5VJV6u6oNLq7-10" target="vgyBVSzbA6ZIvh6DjG86-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="1000" as="targetPoint" />
           </mxGeometry>
@@ -121,11 +121,8 @@
         <mxCell id="vgyBVSzbA6ZIvh6DjG86-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="277.5" y="40" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vgyBVSzbA6ZIvh6DjG86-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vgyBVSzbA6ZIvh6DjG86-3" target="C1kjKJlU5VJV6u6oNLq7-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="vgyBVSzbA6ZIvh6DjG86-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="1030" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
