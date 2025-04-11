@@ -65,6 +65,9 @@
         <mxCell id="9PgCB6bPMW_31jUP7jhT-53" value="特征提取" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="725" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BYN9fb7k8TEmT9bRSxVv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9PgCB6bPMW_31jUP7jhT-55" target="BYN9fb7k8TEmT9bRSxVv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9PgCB6bPMW_31jUP7jhT-55" value="分类分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="825" width="120" height="60" as="geometry" />
         </mxCell>
@@ -81,7 +84,7 @@
           <mxGeometry x="310" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BYN9fb7k8TEmT9bRSxVv-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="930" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
