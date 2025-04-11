@@ -88,7 +88,7 @@
             <mxPoint x="700" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L4Gw1seDw0PPWhDL6rnX-15" value="上传或保存数据" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="L4Gw1seDw0PPWhDL6rnX-15" value="上传或保存数据&lt;div&gt;备份到云端&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L4Gw1seDw0PPWhDL6rnX-16" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.816;exitY=0.946;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="96qFQ0N2vUkSXw9qIuJY-10" target="L4Gw1seDw0PPWhDL6rnX-15" edge="1">
@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L4Gw1seDw0PPWhDL6rnX-17" value="科学研究" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="335" width="120" height="45" as="geometry" />
+          <mxGeometry x="1000" y="280" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="L4Gw1seDw0PPWhDL6rnX-18" value="发表论文" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="470" width="120" height="40" as="geometry" />
