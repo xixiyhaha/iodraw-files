@@ -229,7 +229,13 @@
           <mxGeometry x="30" y="710" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aCNTOda_VNhRTuv1qKO_-39" value="服务请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="710" width="70" height="30" as="geometry" />
+          <mxGeometry x="62.5" y="710" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCNTOda_VNhRTuv1qKO_-40" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.025;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="645" as="sourcePoint" />
+            <mxPoint x="331" y="698" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
