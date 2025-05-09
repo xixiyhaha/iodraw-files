@@ -98,18 +98,6 @@
         <mxCell id="F0g2ekEZ7xe9uIV66ixR-31" value="信息上传系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="F0g2ekEZ7xe9uIV66ixR-30" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="F0g2ekEZ7xe9uIV66ixR-49" value="2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="220" y="1010" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="F0g2ekEZ7xe9uIV66ixR-50" value="无人机巡航" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="F0g2ekEZ7xe9uIV66ixR-49" vertex="1">
-          <mxGeometry y="30" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="F0g2ekEZ7xe9uIV66ixR-51" value="2.1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="60" y="830" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="F0g2ekEZ7xe9uIV66ixR-52" value="设置飞行参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="F0g2ekEZ7xe9uIV66ixR-51" vertex="1">
-          <mxGeometry y="30" width="160" height="90" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
