@@ -158,8 +158,8 @@
         <mxCell id="aCNTOda_VNhRTuv1qKO_-19" value="D2" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="635" y="1055" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aCNTOda_VNhRTuv1qKO_-20" value="系统光谱信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="665" y="1060" width="100" height="20" as="geometry" />
+        <mxCell id="aCNTOda_VNhRTuv1qKO_-20" value="系统数据分析信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1055" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aCNTOda_VNhRTuv1qKO_-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.273;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aCNTOda_VNhRTuv1qKO_-16" target="aCNTOda_VNhRTuv1qKO_-15">
           <mxGeometry relative="1" as="geometry">
