@@ -201,7 +201,7 @@
             <mxPoint x="332.5" y="923" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aCNTOda_VNhRTuv1qKO_-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.993;exitY=0.368;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aCNTOda_VNhRTuv1qKO_-26">
+        <mxCell id="aCNTOda_VNhRTuv1qKO_-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.993;exitY=0.368;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aCNTOda_VNhRTuv1qKO_-45">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="157.5" y="995" as="sourcePoint" />
             <mxPoint x="627.5" y="1280" as="targetPoint" />
@@ -246,8 +246,14 @@
         <mxCell id="aCNTOda_VNhRTuv1qKO_-44" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aCNTOda_VNhRTuv1qKO_-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="525" y="1238" width="50" height="30" as="geometry" />
+        <mxCell id="aCNTOda_VNhRTuv1qKO_-46" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.993;exitY=0.368;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aCNTOda_VNhRTuv1qKO_-26" target="aCNTOda_VNhRTuv1qKO_-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="476" y="1283" as="sourcePoint" />
+            <mxPoint x="627.5" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCNTOda_VNhRTuv1qKO_-45" value="信息传递" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1250" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
