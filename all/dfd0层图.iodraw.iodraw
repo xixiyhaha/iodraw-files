@@ -74,8 +74,8 @@
         <mxCell id="F0g2ekEZ7xe9uIV66ixR-36" value="D2" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="635" y="665" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F0g2ekEZ7xe9uIV66ixR-37" value="系统光谱信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="665" y="670" width="100" height="20" as="geometry" />
+        <mxCell id="F0g2ekEZ7xe9uIV66ixR-37" value="系统初始光谱信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="665" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F0g2ekEZ7xe9uIV66ixR-38" value="" style="endArrow=classic;html=1;exitX=1.019;exitY=0.319;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="F0g2ekEZ7xe9uIV66ixR-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
