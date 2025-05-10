@@ -187,6 +187,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="191.92999999999984" y="1319.35" as="sourcePoint" />
             <mxPoint x="343.75" y="923" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="1160" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-65" value="信息调取请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
