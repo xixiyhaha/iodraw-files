@@ -195,7 +195,7 @@
         <mxCell id="ajITD-AEFYPId6gShnX0-65" value="信息调取请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-170" y="880" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.321;exitY=1.122;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ajITD-AEFYPId6gShnX0-40" target="ajITD-AEFYPId6gShnX0-57" edge="1">
+        <mxCell id="ajITD-AEFYPId6gShnX0-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.446;exitY=-0.122;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ajITD-AEFYPId6gShnX0-40" target="ajITD-AEFYPId6gShnX0-57" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="193.23000000000025" y="1382.1799999999998" as="sourcePoint" />
             <mxPoint x="339.25" y="1290" as="targetPoint" />
