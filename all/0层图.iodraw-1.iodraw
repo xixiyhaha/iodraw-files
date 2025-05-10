@@ -155,8 +155,8 @@
         <mxCell id="ajITD-AEFYPId6gShnX0-50" value="D4" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="-272.5" y="630" width="112.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-51" value="系统数据分析信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-247.5" y="650" width="130" height="30" as="geometry" />
+        <mxCell id="ajITD-AEFYPId6gShnX0-51" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;系统数据分析信息库&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-257.5" y="650" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.994;entryY=0.347;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ajITD-AEFYPId6gShnX0-47" target="ajITD-AEFYPId6gShnX0-46" edge="1">
           <mxGeometry relative="1" as="geometry">
