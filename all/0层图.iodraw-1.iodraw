@@ -120,7 +120,7 @@
           <mxGeometry x="20" y="1060" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-40" value="系统光谱处理信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="45" y="1080" width="130" height="30" as="geometry" />
+          <mxGeometry x="60" y="1070" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ajITD-AEFYPId6gShnX0-36" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -209,6 +209,9 @@
               <mxPoint x="-180" y="485" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PcGHZAO8ND4HZjjRDy9c-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.37;entryY=-0.149;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ajITD-AEFYPId6gShnX0-39" target="ajITD-AEFYPId6gShnX0-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
