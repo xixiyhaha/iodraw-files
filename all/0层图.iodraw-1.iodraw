@@ -147,13 +147,8 @@
         <mxCell id="ajITD-AEFYPId6gShnX0-46" value="数据分析&lt;div&gt;信息上传系统&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="ajITD-AEFYPId6gShnX0-45" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="PcGHZAO8ND4HZjjRDy9c-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ajITD-AEFYPId6gShnX0-47">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="1200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-47" value="数据分析员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="635" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-50" value="D4" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="-210" y="505" width="100" height="30" as="geometry" />
@@ -198,7 +193,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-65" value="信息调取请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="195" y="1240" width="100" height="30" as="geometry" />
+          <mxGeometry x="-170" y="880" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.321;exitY=1.122;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ajITD-AEFYPId6gShnX0-40" target="ajITD-AEFYPId6gShnX0-57" edge="1">
           <mxGeometry relative="1" as="geometry">
