@@ -57,9 +57,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PcGHZAO8ND4HZjjRDy9c-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ajITD-AEFYPId6gShnX0-19" target="ajITD-AEFYPId6gShnX0-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-19" value="无人机高光谱相机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="505" width="120" height="60" as="geometry" />
         </mxCell>
