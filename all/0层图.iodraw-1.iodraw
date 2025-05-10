@@ -37,11 +37,13 @@
         <mxCell id="ajITD-AEFYPId6gShnX0-10" value="无人机巡航" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="ajITD-AEFYPId6gShnX0-9" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ajITD-AEFYPId6gShnX0-12" target="ajITD-AEFYPId6gShnX0-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ajITD-AEFYPId6gShnX0-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ajITD-AEFYPId6gShnX0-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-12" value="操作员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-13" value="信息调取请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="120" width="90" height="20" as="geometry" />
