@@ -52,12 +52,12 @@
         <mxCell id="2G_EUC6U38PPQuprDS4C-97" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2G_EUC6U38PPQuprDS4C-96" vertex="1">
           <mxGeometry y="30" width="570" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="2G_EUC6U38PPQuprDS4C-98" value="业务需求" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="2G_EUC6U38PPQuprDS4C-97" vertex="1">
+        <mxCell id="2G_EUC6U38PPQuprDS4C-98" value="&lt;b&gt;业务需求&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="2G_EUC6U38PPQuprDS4C-97" vertex="1">
           <mxGeometry width="175" height="52" as="geometry">
             <mxRectangle width="175" height="52" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2G_EUC6U38PPQuprDS4C-99" value="实现业务需求所需要的系统特性" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="2G_EUC6U38PPQuprDS4C-97" vertex="1">
+        <mxCell id="2G_EUC6U38PPQuprDS4C-99" value="&lt;b&gt;实现业务需求所需要的系统特性&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="2G_EUC6U38PPQuprDS4C-97" vertex="1">
           <mxGeometry x="175" width="208" height="52" as="geometry">
             <mxRectangle width="208" height="52" as="alternateBounds" />
           </mxGeometry>
@@ -119,19 +119,19 @@
           <mxGeometry x="1890" y="1290" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-151" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="1505" y="1450" width="570" height="110" as="geometry" />
+          <mxGeometry x="1500" y="1450" width="570" height="110" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-152" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2G_EUC6U38PPQuprDS4C-151" vertex="1">
           <mxGeometry width="570" height="110" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-153" value="BR3:给用户提供清晰可视化的数据" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="2G_EUC6U38PPQuprDS4C-152" vertex="1">
-          <mxGeometry width="170" height="110" as="geometry">
-            <mxRectangle width="170" height="110" as="alternateBounds" />
+          <mxGeometry width="176" height="110" as="geometry">
+            <mxRectangle width="176" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-154" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="2G_EUC6U38PPQuprDS4C-152" vertex="1">
-          <mxGeometry x="170" width="213" height="110" as="geometry">
-            <mxRectangle width="213" height="110" as="alternateBounds" />
+          <mxGeometry x="176" width="207" height="110" as="geometry">
+            <mxRectangle width="207" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-155" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="2G_EUC6U38PPQuprDS4C-152" vertex="1">
