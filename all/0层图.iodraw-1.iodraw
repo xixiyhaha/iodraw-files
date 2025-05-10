@@ -196,12 +196,12 @@
         <mxCell id="ajITD-AEFYPId6gShnX0-65" value="信息调取请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="225" y="120" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.564;entryY=1.033;entryDx=0;entryDy=0;exitX=0.446;exitY=-0.122;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="ajITD-AEFYPId6gShnX0-40" target="ajITD-AEFYPId6gShnX0-58" edge="1">
+        <mxCell id="ajITD-AEFYPId6gShnX0-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.036;entryY=0.49;entryDx=0;entryDy=0;exitX=0.446;exitY=-0.122;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="ajITD-AEFYPId6gShnX0-40" target="ajITD-AEFYPId6gShnX0-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="193.23000000000025" y="1382.1799999999998" as="sourcePoint" />
             <mxPoint x="339.25" y="1290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-130" y="930" />
+              <mxPoint x="-170" y="946" />
               <mxPoint x="-180" y="485" />
             </Array>
           </mxGeometry>
