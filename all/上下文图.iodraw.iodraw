@@ -98,7 +98,7 @@
             <mxRectangle width="208" height="113" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2G_EUC6U38PPQuprDS4C-108" value="内部输入：无人机状况，天气情况&lt;br&gt;内部输出：当前巡航状态" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="2G_EUC6U38PPQuprDS4C-105" vertex="1">
+        <mxCell id="2G_EUC6U38PPQuprDS4C-108" value="内部输入：无人机状况，天气情况&lt;br&gt;内部输出：当前巡航状态" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="2G_EUC6U38PPQuprDS4C-105" vertex="1">
           <mxGeometry x="383" width="187" height="113" as="geometry">
             <mxRectangle width="187" height="113" as="alternateBounds" />
           </mxGeometry>
@@ -149,7 +149,7 @@
           <mxGeometry x="1685" y="1520" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-159" value="外部输出：目标的光谱信息&lt;br&gt;内部输入：无人机高光谱相机数据" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="1870" y="1455" width="200" height="40" as="geometry" />
+          <mxGeometry x="1885" y="1460" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-160" value="内部输出：无人机高光谱相机数据&lt;br&gt;外部输入：处理好的数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1860" y="1515" width="200" height="30" as="geometry" />
