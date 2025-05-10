@@ -46,7 +46,7 @@
         <mxCell id="ajITD-AEFYPId6gShnX0-13" value="信息调取请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="120" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-17" value="" style="endArrow=classic;html=1;exitX=0.015;exitY=0.552;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ajITD-AEFYPId6gShnX0-10" target="ajITD-AEFYPId6gShnX0-19" edge="1">
+        <mxCell id="ajITD-AEFYPId6gShnX0-17" value="" style="endArrow=classic;html=1;exitX=0.015;exitY=0.552;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ajITD-AEFYPId6gShnX0-10" target="ajITD-AEFYPId6gShnX0-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="540" as="sourcePoint" />
             <mxPoint x="630" y="515" as="targetPoint" />
@@ -67,10 +67,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-22" value="D2" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
-          <mxGeometry x="425" y="670" width="100" height="30" as="geometry" />
+          <mxGeometry x="336" y="670" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-23" value="系统初始光谱信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="670" width="130" height="30" as="geometry" />
+          <mxGeometry x="361" y="670" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-24" value="" style="endArrow=classic;html=1;exitX=1.019;exitY=0.319;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ajITD-AEFYPId6gShnX0-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
