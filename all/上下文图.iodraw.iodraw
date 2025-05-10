@@ -116,7 +116,7 @@
           <mxGeometry x="1858" y="1235" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-116" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;外部输入：操作员输入具体参数&lt;br&gt;内部输出：无人机巡航参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="1855" y="1295" width="210" height="40" as="geometry" />
+          <mxGeometry x="1848" y="1295" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-151" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="1500" y="1450" width="550" height="110" as="geometry" />
@@ -130,13 +130,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-154" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="2G_EUC6U38PPQuprDS4C-152" vertex="1">
-          <mxGeometry x="170" width="190" height="110" as="geometry">
-            <mxRectangle width="190" height="110" as="alternateBounds" />
+          <mxGeometry x="170" width="200" height="110" as="geometry">
+            <mxRectangle width="200" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-155" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="2G_EUC6U38PPQuprDS4C-152" vertex="1">
-          <mxGeometry x="360" width="190" height="110" as="geometry">
-            <mxRectangle width="190" height="110" as="alternateBounds" />
+          <mxGeometry x="370" width="180" height="110" as="geometry">
+            <mxRectangle width="180" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-156" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=12;" parent="1" vertex="1">
