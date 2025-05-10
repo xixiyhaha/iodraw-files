@@ -61,7 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-19" value="无人机高光谱相机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="505" width="120" height="60" as="geometry" />
+          <mxGeometry x="135" y="505" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.026;entryY=0.416;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="ajITD-AEFYPId6gShnX0-5" target="ajITD-AEFYPId6gShnX0-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -102,10 +102,10 @@
             <mxPoint x="121" y="703" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-33" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ajITD-AEFYPId6gShnX0-19" target="ajITD-AEFYPId6gShnX0-26" edge="1">
+        <mxCell id="ajITD-AEFYPId6gShnX0-33" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ajITD-AEFYPId6gShnX0-19" target="ajITD-AEFYPId6gShnX0-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="645" as="sourcePoint" />
-            <mxPoint x="331" y="698" as="targetPoint" />
+            <mxPoint x="220" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-34" value="4" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
