@@ -288,10 +288,10 @@
         <mxCell id="RaU-03cUAj-9zbaaGY9x-3" value="储存状态通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="634" y="930" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RaU-03cUAj-9zbaaGY9x-4" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.013;entryY=0.559;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.005;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="RaU-03cUAj-9zbaaGY9x-4" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.006;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aCNTOda_VNhRTuv1qKO_-2" target="RaU-03cUAj-9zbaaGY9x-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="162" y="770" as="sourcePoint" />
-            <mxPoint x="334.00000000000006" y="740" as="targetPoint" />
+            <mxPoint x="493" y="920" as="sourcePoint" />
+            <mxPoint x="665" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
