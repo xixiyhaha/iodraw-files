@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="V0YWSRVrMLYdZECxNJcG-7" value="" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry y="394" width="780" height="226" as="geometry" />
+        </mxCell>
         <mxCell id="V0YWSRVrMLYdZECxNJcG-4" value="" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry y="205" width="780" height="190" as="geometry" />
         </mxCell>
@@ -257,9 +260,6 @@
         </mxCell>
         <mxCell id="aCNTOda_VNhRTuv1qKO_-45" value="信息传递" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="535.25" y="1295" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="V0YWSRVrMLYdZECxNJcG-7" value="" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="10" y="215" width="780" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
