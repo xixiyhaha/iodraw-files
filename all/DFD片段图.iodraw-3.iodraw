@@ -253,13 +253,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aCNTOda_VNhRTuv1qKO_-44" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="645.25" y="1300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aCNTOda_VNhRTuv1qKO_-46" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.993;exitY=0.368;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="aCNTOda_VNhRTuv1qKO_-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="491.25" y="1333" as="sourcePoint" />
-            <mxPoint x="535.25" y="1330" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="616.5" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V0YWSRVrMLYdZECxNJcG-12" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="aCNTOda_VNhRTuv1qKO_-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
