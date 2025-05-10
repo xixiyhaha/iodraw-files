@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram id="KCfGoBOesjaovbOCa4KC" name="第 1 页">
-    <mxGraphModel dx="1192" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="351" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,8 +115,8 @@
         <mxCell id="2G_EUC6U38PPQuprDS4C-113" value="外部输入：用户输入基本信息&lt;br&gt;内部输出：无人机基本参数" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1890" y="1240" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2G_EUC6U38PPQuprDS4C-116" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;外部输入：操作员输入具体参数&lt;br&gt;内部输出：无人机巡航参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="1848" y="1295" width="210" height="40" as="geometry" />
+        <mxCell id="2G_EUC6U38PPQuprDS4C-116" value="外部输入：操作员输入具体参数&lt;br&gt;内部输出：无人机巡航参数" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="1858" y="1295" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-151" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="1500" y="1450" width="570" height="110" as="geometry" />
