@@ -198,12 +198,6 @@
             <mxPoint x="343.75" y="923" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.993;exitY=0.368;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ajITD-AEFYPId6gShnX0-71" target="ajITD-AEFYPId6gShnX0-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="168.75" y="995" as="sourcePoint" />
-            <mxPoint x="638.75" y="1280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-65" value="信息调取请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="198.75" y="1230" width="100" height="30" as="geometry" />
         </mxCell>
@@ -216,14 +210,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-70" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.993;exitY=0.368;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ajITD-AEFYPId6gShnX0-58" target="ajITD-AEFYPId6gShnX0-71">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="487.25" y="1283" as="sourcePoint" />
-            <mxPoint x="638.75" y="1280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-71" value="信息传递" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="531.25" y="1265" width="70" height="30" as="geometry" />
+        <mxCell id="ajITD-AEFYPId6gShnX0-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajITD-AEFYPId6gShnX0-58" target="ajITD-AEFYPId6gShnX0-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
