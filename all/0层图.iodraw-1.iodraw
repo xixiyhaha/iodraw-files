@@ -215,7 +215,7 @@
         <mxCell id="PcGHZAO8ND4HZjjRDy9c-14" value="信息上传请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="-10" y="580" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="o9b8WX9W7vPrxg_MLtAu-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="o9b8WX9W7vPrxg_MLtAu-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.623;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.681;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ajITD-AEFYPId6gShnX0-27" target="ajITD-AEFYPId6gShnX0-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="810" as="sourcePoint" />
             <mxPoint x="70" y="920" as="targetPoint" />
