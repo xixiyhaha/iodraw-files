@@ -156,7 +156,7 @@
         <mxCell id="ajITD-AEFYPId6gShnX0-51" value="系统数据分析信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-185" y="505" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.273;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ajITD-AEFYPId6gShnX0-47" target="ajITD-AEFYPId6gShnX0-46" edge="1">
+        <mxCell id="ajITD-AEFYPId6gShnX0-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.984;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="ajITD-AEFYPId6gShnX0-47" target="ajITD-AEFYPId6gShnX0-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="145" y="765" as="sourcePoint" />
             <mxPoint x="330" y="703" as="targetPoint" />
