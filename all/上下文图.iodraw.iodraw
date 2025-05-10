@@ -43,8 +43,8 @@
         <mxCell id="2G_EUC6U38PPQuprDS4C-79" value="高光谱相机扫描数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1760" y="1050" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2G_EUC6U38PPQuprDS4C-81" value="处理后的数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="1865" y="970" width="90" height="20" as="geometry" />
+        <mxCell id="2G_EUC6U38PPQuprDS4C-81" value="处理后光谱信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="1855" y="965" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-96" value="无人机高光谱相机" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1500" y="1150" width="550" height="300" as="geometry" />
