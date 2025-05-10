@@ -209,8 +209,8 @@
             <mxPoint x="-190" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PcGHZAO8ND4HZjjRDy9c-13" value="信息上传请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="200" width="90" height="20" as="geometry" />
+        <mxCell id="PcGHZAO8ND4HZjjRDy9c-13" value="信息传递" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="195" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
