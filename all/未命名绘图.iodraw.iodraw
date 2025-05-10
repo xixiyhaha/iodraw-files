@@ -112,7 +112,7 @@
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-36" value="数据处理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-39" value="D3" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="635" y="845" width="100" height="30" as="geometry" />
