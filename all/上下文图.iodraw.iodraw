@@ -40,8 +40,8 @@
         <mxCell id="2G_EUC6U38PPQuprDS4C-77" value="数据处理员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1930" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2G_EUC6U38PPQuprDS4C-79" value="高光谱相机扫描数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="1050" width="120" height="20" as="geometry" />
+        <mxCell id="2G_EUC6U38PPQuprDS4C-79" value="高光谱相机扫描&lt;div&gt;初始光谱信息&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="1765" y="1040" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-81" value="处理后光谱信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1855" y="965" width="110" height="30" as="geometry" />
