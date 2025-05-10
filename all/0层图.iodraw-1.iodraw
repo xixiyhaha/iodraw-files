@@ -158,7 +158,7 @@
         <mxCell id="ajITD-AEFYPId6gShnX0-51" value="系统数据分析信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-485" y="600" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.616;exitY=1.105;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ajITD-AEFYPId6gShnX0-55" edge="1">
+        <mxCell id="ajITD-AEFYPId6gShnX0-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ajITD-AEFYPId6gShnX0-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="1095" as="sourcePoint" />
             <mxPoint x="460" y="1080" as="targetPoint" />
@@ -181,7 +181,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-55" value="信息调取请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1050" width="100" height="30" as="geometry" />
+          <mxGeometry x="475" y="1050" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-57" value="6" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="-530" y="410" width="160" height="120" as="geometry" />
