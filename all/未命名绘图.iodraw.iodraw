@@ -183,18 +183,15 @@
         <mxCell id="ajITD-AEFYPId6gShnX0-58" value="用户调取数据分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ajITD-AEFYPId6gShnX0-57">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-59" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="38.75" y="1200" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-60" value="D3" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="38.75" y="1300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-61" value="系统光谱处理信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="63.75" y="1300" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.273;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ajITD-AEFYPId6gShnX0-59" target="ajITD-AEFYPId6gShnX0-58">
+        <mxCell id="ajITD-AEFYPId6gShnX0-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.273;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="ajITD-AEFYPId6gShnX0-58">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="148.75" y="975" as="sourcePoint" />
+            <mxPoint x="158.75" y="1230" as="sourcePoint" />
             <mxPoint x="333.75" y="913" as="targetPoint" />
           </mxGeometry>
         </mxCell>
