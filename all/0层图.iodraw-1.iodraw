@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-22" value="D2" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
-          <mxGeometry x="308.5" y="650" width="121.5" height="50" as="geometry" />
+          <mxGeometry x="304.5" y="665" width="121.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-23" value="系统初始光谱信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="333.5" y="670" width="130" height="30" as="geometry" />
