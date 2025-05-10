@@ -95,9 +95,9 @@
         <mxCell id="ajITD-AEFYPId6gShnX0-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;服务请求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="54.38" y="860" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-32" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.593;exitY=-0.042;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ajITD-AEFYPId6gShnX0-30" target="ajITD-AEFYPId6gShnX0-27" edge="1">
+        <mxCell id="ajITD-AEFYPId6gShnX0-32" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="ajITD-AEFYPId6gShnX0-27" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="89" y="820" as="sourcePoint" />
+            <mxPoint x="81" y="848" as="sourcePoint" />
             <mxPoint x="121" y="703" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -187,6 +187,12 @@
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-65" value="信息调取请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="225" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PcGHZAO8ND4HZjjRDy9c-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="680" as="sourcePoint" />
+            <mxPoint x="210" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
