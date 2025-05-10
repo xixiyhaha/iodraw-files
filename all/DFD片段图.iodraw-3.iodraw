@@ -303,6 +303,12 @@
             <mxPoint x="498" y="1152" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RaU-03cUAj-9zbaaGY9x-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.015;entryY=0.578;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.018;exitY=0.778;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="1193" as="sourcePoint" />
+            <mxPoint x="501" y="1152" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
