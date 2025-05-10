@@ -74,14 +74,14 @@
         <mxCell id="ajITD-AEFYPId6gShnX0-23" value="系统初始光谱信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="333.5" y="670" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-24" value="" style="endArrow=classic;html=1;exitX=1.019;exitY=0.319;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ajITD-AEFYPId6gShnX0-22" edge="1">
+        <mxCell id="ajITD-AEFYPId6gShnX0-24" value="" style="endArrow=classic;html=1;exitX=1.019;exitY=0.319;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="247.49999999999994" y="686.86" as="sourcePoint" />
-            <mxPoint x="394.46000000000004" y="683.15" as="targetPoint" />
+            <mxPoint x="159.99999999999994" y="691.86" as="sourcePoint" />
+            <mxPoint x="220.99999999999955" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-26" value="3" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="87.5" y="625" width="160" height="120" as="geometry" />
+          <mxGeometry y="630" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-27" value="初始光谱&lt;div&gt;信息上传系统&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="ajITD-AEFYPId6gShnX0-26" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
