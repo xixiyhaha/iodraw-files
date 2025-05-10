@@ -169,6 +169,9 @@
             <mxPoint x="1860" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-Swx_i3ALIUwPBl5vNb6-4" value="处理后光谱信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1865" y="975" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
