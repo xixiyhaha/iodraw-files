@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-12" value="操作员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="582.5" y="505" width="120" height="60" as="geometry" />
+          <mxGeometry x="582.5" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-13" value="信息调取请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="120" width="90" height="20" as="geometry" />
