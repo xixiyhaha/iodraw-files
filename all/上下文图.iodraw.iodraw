@@ -47,60 +47,60 @@
           <mxGeometry x="1855" y="965" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-96" value="无人机高光谱相机" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1500" y="1150" width="550" height="300" as="geometry" />
+          <mxGeometry x="1500" y="1140" width="570" height="310" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-97" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2G_EUC6U38PPQuprDS4C-96" vertex="1">
-          <mxGeometry y="30" width="550" height="50" as="geometry" />
+          <mxGeometry y="30" width="570" height="52" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-98" value="业务需求" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="2G_EUC6U38PPQuprDS4C-97" vertex="1">
-          <mxGeometry width="169" height="50" as="geometry">
-            <mxRectangle width="169" height="50" as="alternateBounds" />
+          <mxGeometry width="175" height="52" as="geometry">
+            <mxRectangle width="175" height="52" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-99" value="实现业务需求所需要的系统特性" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="2G_EUC6U38PPQuprDS4C-97" vertex="1">
-          <mxGeometry x="169" width="201" height="50" as="geometry">
-            <mxRectangle width="201" height="50" as="alternateBounds" />
+          <mxGeometry x="175" width="208" height="52" as="geometry">
+            <mxRectangle width="208" height="52" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-100" value="局部解决方案的对外交互" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="2G_EUC6U38PPQuprDS4C-97" vertex="1">
-          <mxGeometry x="370" width="180" height="50" as="geometry">
-            <mxRectangle width="180" height="50" as="alternateBounds" />
+          <mxGeometry x="383" width="187" height="52" as="geometry">
+            <mxRectangle width="187" height="52" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-101" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2G_EUC6U38PPQuprDS4C-96" vertex="1">
-          <mxGeometry y="80" width="550" height="111" as="geometry" />
+          <mxGeometry y="82" width="570" height="115" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-102" value="BR1:无人机巡航" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="2G_EUC6U38PPQuprDS4C-101" vertex="1">
-          <mxGeometry width="169" height="111" as="geometry">
-            <mxRectangle width="169" height="111" as="alternateBounds" />
+          <mxGeometry width="175" height="115" as="geometry">
+            <mxRectangle width="175" height="115" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-103" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="2G_EUC6U38PPQuprDS4C-101" vertex="1">
-          <mxGeometry x="169" width="201" height="111" as="geometry">
-            <mxRectangle width="201" height="111" as="alternateBounds" />
+          <mxGeometry x="175" width="208" height="115" as="geometry">
+            <mxRectangle width="208" height="115" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-104" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="2G_EUC6U38PPQuprDS4C-101" vertex="1">
-          <mxGeometry x="370" width="180" height="111" as="geometry">
-            <mxRectangle width="180" height="111" as="alternateBounds" />
+          <mxGeometry x="383" width="187" height="115" as="geometry">
+            <mxRectangle width="187" height="115" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-105" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2G_EUC6U38PPQuprDS4C-96" vertex="1">
-          <mxGeometry y="191" width="550" height="109" as="geometry" />
+          <mxGeometry y="197" width="570" height="113" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-106" value="BR2:无人机巡航过程中的自我检查" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="2G_EUC6U38PPQuprDS4C-105" vertex="1">
-          <mxGeometry width="169" height="109" as="geometry">
-            <mxRectangle width="169" height="109" as="alternateBounds" />
+          <mxGeometry width="175" height="113" as="geometry">
+            <mxRectangle width="175" height="113" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-107" value="SF3：系统可以自行检查天气状况，无人机电量等数据，避免设备的意外损毁。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="2G_EUC6U38PPQuprDS4C-105" vertex="1">
-          <mxGeometry x="169" width="201" height="109" as="geometry">
-            <mxRectangle width="201" height="109" as="alternateBounds" />
+          <mxGeometry x="175" width="208" height="113" as="geometry">
+            <mxRectangle width="208" height="113" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-108" value="内部输入：无人机状况，天气情况&lt;br&gt;内部输出：当前巡航状态" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="2G_EUC6U38PPQuprDS4C-105" vertex="1">
-          <mxGeometry x="370" width="180" height="109" as="geometry">
-            <mxRectangle width="180" height="109" as="alternateBounds" />
+          <mxGeometry x="383" width="187" height="113" as="geometry">
+            <mxRectangle width="187" height="113" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-109" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=12;" parent="1" vertex="1">
