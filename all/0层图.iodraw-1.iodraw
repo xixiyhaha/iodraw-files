@@ -115,10 +115,10 @@
           <mxGeometry x="60" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-39" value="D3" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
-          <mxGeometry x="635" y="845" width="100" height="30" as="geometry" />
+          <mxGeometry x="-55" y="950" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-40" value="系统光谱处理信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="845" width="130" height="30" as="geometry" />
+          <mxGeometry x="-30" y="950" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.273;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ajITD-AEFYPId6gShnX0-36" target="ajITD-AEFYPId6gShnX0-35" edge="1">
           <mxGeometry relative="1" as="geometry">
