@@ -125,13 +125,13 @@
           <mxGeometry width="570" height="110" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-153" value="BR3:给用户提供清晰可视化的数据" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="2G_EUC6U38PPQuprDS4C-152" vertex="1">
-          <mxGeometry width="176" height="110" as="geometry">
-            <mxRectangle width="176" height="110" as="alternateBounds" />
+          <mxGeometry width="180" height="110" as="geometry">
+            <mxRectangle width="180" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-154" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="2G_EUC6U38PPQuprDS4C-152" vertex="1">
-          <mxGeometry x="176" width="207" height="110" as="geometry">
-            <mxRectangle width="207" height="110" as="alternateBounds" />
+          <mxGeometry x="180" width="203" height="110" as="geometry">
+            <mxRectangle width="203" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-155" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="2G_EUC6U38PPQuprDS4C-152" vertex="1">
