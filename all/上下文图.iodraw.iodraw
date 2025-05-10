@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-109" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1672" y="1281" width="378" height="8" as="geometry" />
+          <mxGeometry x="1672" y="1281" width="398" height="8" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-110" value="SF1:知道所需要的数据种类和基本&lt;br&gt;目标位置等信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1670" y="1245" width="200" height="30" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry x="1890" y="1240" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-116" value="外部输入：操作员输入具体参数&lt;br&gt;内部输出：无人机巡航参数" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="1858" y="1295" width="190" height="40" as="geometry" />
+          <mxGeometry x="1890" y="1290" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-151" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="1500" y="1450" width="570" height="110" as="geometry" />
@@ -140,7 +140,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-156" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1670" y="1501" width="378" height="8" as="geometry" />
+          <mxGeometry x="1670" y="1501" width="400" height="8" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-157" value="SF4：数据的获取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1690" y="1460" width="110" height="20" as="geometry" />
