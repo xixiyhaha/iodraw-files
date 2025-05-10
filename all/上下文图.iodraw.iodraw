@@ -130,6 +130,9 @@
         <mxCell id="2G_EUC6U38PPQuprDS4C-160" value="内部输出：无人机高光谱相机数据&lt;br&gt;外部输入：处理好的数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1820" y="1515" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-Swx_i3ALIUwPBl5vNb6-1" value="数据处理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
