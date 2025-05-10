@@ -183,7 +183,7 @@
         <mxCell id="ajITD-AEFYPId6gShnX0-58" value="用户调取数据分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ajITD-AEFYPId6gShnX0-57">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.273;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ajITD-AEFYPId6gShnX0-12" target="ajITD-AEFYPId6gShnX0-58">
+        <mxCell id="ajITD-AEFYPId6gShnX0-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.273;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="ajITD-AEFYPId6gShnX0-4" target="ajITD-AEFYPId6gShnX0-58">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-384.4443766276042" y="1270" as="sourcePoint" />
             <mxPoint x="333.75" y="913" as="targetPoint" />
@@ -211,6 +211,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="193.23000000000025" y="1382.1799999999998" as="sourcePoint" />
             <mxPoint x="339.25" y="1290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="1110" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-69" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
