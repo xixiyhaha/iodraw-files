@@ -151,10 +151,10 @@
           <mxGeometry x="60" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-50" value="D4" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
-          <mxGeometry x="635" y="1055" width="100" height="30" as="geometry" />
+          <mxGeometry x="-210" y="505" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-51" value="系统数据分析信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="1055" width="130" height="30" as="geometry" />
+          <mxGeometry x="-185" y="505" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.273;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ajITD-AEFYPId6gShnX0-47" target="ajITD-AEFYPId6gShnX0-46" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -187,9 +187,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="191.92999999999984" y="1319.35" as="sourcePoint" />
             <mxPoint x="343.75" y="923" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="470" y="1160" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-65" value="信息调取请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
