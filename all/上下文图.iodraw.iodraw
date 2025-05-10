@@ -170,7 +170,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-Swx_i3ALIUwPBl5vNb6-4" value="处理后光谱信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1865" y="975" width="110" height="30" as="geometry" />
+          <mxGeometry x="1870" y="910" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Swx_i3ALIUwPBl5vNb6-5" value="数据分析信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="838" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
