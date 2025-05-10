@@ -192,7 +192,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.986;exitY=0.645;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="ajITD-AEFYPId6gShnX0-57">
+        <mxCell id="ajITD-AEFYPId6gShnX0-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.321;exitY=1.085;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ajITD-AEFYPId6gShnX0-51" target="ajITD-AEFYPId6gShnX0-57">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="191.92999999999984" y="1319.35" as="sourcePoint" />
             <mxPoint x="343.75" y="923" as="targetPoint" />
@@ -207,7 +207,7 @@
         <mxCell id="ajITD-AEFYPId6gShnX0-65" value="信息调取请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="198.75" y="1230" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.527;entryDx=0;entryDy=0;exitX=0.996;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" target="ajITD-AEFYPId6gShnX0-58">
+        <mxCell id="ajITD-AEFYPId6gShnX0-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.321;exitY=1.122;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ajITD-AEFYPId6gShnX0-40" target="ajITD-AEFYPId6gShnX0-57">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="193.23000000000025" y="1382.1799999999998" as="sourcePoint" />
             <mxPoint x="339.25" y="1290" as="targetPoint" />
