@@ -95,7 +95,7 @@
         <mxCell id="ajITD-AEFYPId6gShnX0-31" value="服务请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="61.25" y="870" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-32" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.04;exitY=0.692;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ajITD-AEFYPId6gShnX0-31" target="ajITD-AEFYPId6gShnX0-27" edge="1">
+        <mxCell id="ajITD-AEFYPId6gShnX0-32" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.264;exitY=0.057;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ajITD-AEFYPId6gShnX0-31" target="ajITD-AEFYPId6gShnX0-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-50" y="650" as="sourcePoint" />
             <mxPoint x="121" y="703" as="targetPoint" />
