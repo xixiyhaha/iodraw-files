@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram id="DSasFrQye4B7h0_vhMKm" name="第 1 页">
-    <mxGraphModel dx="2240" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2044" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,8 +237,8 @@
         <mxCell id="aCNTOda_VNhRTuv1qKO_-38" value="D0" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="34" y="752.5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aCNTOda_VNhRTuv1qKO_-39" value="服务请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="66.5" y="752.5" width="70" height="30" as="geometry" />
+        <mxCell id="aCNTOda_VNhRTuv1qKO_-39" value="储存状态通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="51.5" y="752.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aCNTOda_VNhRTuv1qKO_-40" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.013;entryY=0.559;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.04;exitY=0.692;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="aCNTOda_VNhRTuv1qKO_-39" target="F0g2ekEZ7xe9uIV66ixR-31" edge="1">
           <mxGeometry relative="1" as="geometry">
