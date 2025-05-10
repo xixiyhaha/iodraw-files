@@ -69,8 +69,11 @@
         <mxCell id="ajITD-AEFYPId6gShnX0-19" value="无人机高光谱相机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.582;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ajITD-AEFYPId6gShnX0-8" target="ajITD-AEFYPId6gShnX0-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ajITD-AEFYPId6gShnX0-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="270" as="sourcePoint" />
+            <mxPoint x="330" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
