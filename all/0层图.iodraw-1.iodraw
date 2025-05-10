@@ -210,6 +210,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PcGHZAO8ND4HZjjRDy9c-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajITD-AEFYPId6gShnX0-58" target="ajITD-AEFYPId6gShnX0-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
