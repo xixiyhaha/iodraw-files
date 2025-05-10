@@ -183,12 +183,6 @@
         <mxCell id="ajITD-AEFYPId6gShnX0-58" value="用户调取数据分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ajITD-AEFYPId6gShnX0-57">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-60" value="D3" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="38.75" y="1300" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-61" value="系统光谱处理信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="63.75" y="1300" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ajITD-AEFYPId6gShnX0-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.273;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ajITD-AEFYPId6gShnX0-12" target="ajITD-AEFYPId6gShnX0-58">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-384.4443766276042" y="1270" as="sourcePoint" />
@@ -198,9 +192,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.986;exitY=0.645;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ajITD-AEFYPId6gShnX0-61" target="ajITD-AEFYPId6gShnX0-57">
+        <mxCell id="ajITD-AEFYPId6gShnX0-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.986;exitY=0.645;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="ajITD-AEFYPId6gShnX0-57">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="158.75" y="985" as="sourcePoint" />
+            <mxPoint x="191.92999999999984" y="1319.35" as="sourcePoint" />
             <mxPoint x="343.75" y="923" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -213,15 +207,9 @@
         <mxCell id="ajITD-AEFYPId6gShnX0-65" value="信息调取请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="198.75" y="1230" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-66" value="D4" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="38.75" y="1370" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-67" value="系统数据分析信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="63.75" y="1370" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ajITD-AEFYPId6gShnX0-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.527;entryDx=0;entryDy=0;exitX=0.996;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="ajITD-AEFYPId6gShnX0-67" target="ajITD-AEFYPId6gShnX0-58">
+        <mxCell id="ajITD-AEFYPId6gShnX0-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.527;entryDx=0;entryDy=0;exitX=0.996;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" target="ajITD-AEFYPId6gShnX0-58">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="202.25" y="1329" as="sourcePoint" />
+            <mxPoint x="193.23000000000025" y="1382.1799999999998" as="sourcePoint" />
             <mxPoint x="339.25" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
