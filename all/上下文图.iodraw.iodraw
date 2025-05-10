@@ -116,7 +116,7 @@
           <mxGeometry x="1850" y="1235" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-116" value="外部输入：操作员输入具体参数&lt;br&gt;内部输出：无人机巡航参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="1860" y="1300" width="180" height="30" as="geometry" />
+          <mxGeometry x="1870" y="1300" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2G_EUC6U38PPQuprDS4C-151" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="1500" y="1450" width="550" height="110" as="geometry" />
