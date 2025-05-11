@@ -1,0 +1,66 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram id="ha18bKHaIm5pdhd6rI47" name="第 1 页">
+    <mxGraphModel dx="558" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fodAHgAIVji1TjG1SLI0-1" value="2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="324" y="230" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fodAHgAIVji1TjG1SLI0-2" value="无人机巡航" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="fodAHgAIVji1TjG1SLI0-1" vertex="1">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fodAHgAIVji1TjG1SLI0-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.326;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fodAHgAIVji1TjG1SLI0-4" target="fodAHgAIVji1TjG1SLI0-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fodAHgAIVji1TjG1SLI0-4" value="操作员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="34" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fodAHgAIVji1TjG1SLI0-5" value="信息调取请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="204" y="250" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fodAHgAIVji1TjG1SLI0-6" value="D1" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
+          <mxGeometry x="34" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fodAHgAIVji1TjG1SLI0-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fodAHgAIVji1TjG1SLI0-8" target="fodAHgAIVji1TjG1SLI0-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fodAHgAIVji1TjG1SLI0-8" value="基本参数信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="64" y="355" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fodAHgAIVji1TjG1SLI0-9" value="" style="endArrow=classic;html=1;exitX=1.019;exitY=0.319;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fodAHgAIVji1TjG1SLI0-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="544" y="310" as="sourcePoint" />
+            <mxPoint x="634" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fodAHgAIVji1TjG1SLI0-10" value="信息传递" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fodAHgAIVji1TjG1SLI0-9" vertex="1" connectable="0">
+          <mxGeometry x="0.1932" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fodAHgAIVji1TjG1SLI0-11" value="无人机高光谱相机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="634" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fodAHgAIVji1TjG1SLI0-14" value="2.1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="324" y="480" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fodAHgAIVji1TjG1SLI0-15" value="设置无人机参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="fodAHgAIVji1TjG1SLI0-14" vertex="1">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fodAHgAIVji1TjG1SLI0-16" value="D1" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
+          <mxGeometry x="24" y="500" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fodAHgAIVji1TjG1SLI0-17" value="基本参数信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="54" y="505" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fodAHgAIVji1TjG1SLI0-18" value="2.1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="324" y="650" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fodAHgAIVji1TjG1SLI0-19" value="设置无人机参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="fodAHgAIVji1TjG1SLI0-18" vertex="1">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
