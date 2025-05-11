@@ -61,7 +61,7 @@
           <mxGeometry y="30" width="165" height="90" as="geometry" />
         </mxCell>
         <mxCell id="o9LPt7uoENurph0ssOT0-1" value="2.3" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="510" y="810" width="165" height="120" as="geometry" />
+          <mxGeometry x="450" y="770" width="165" height="120" as="geometry" />
         </mxCell>
         <mxCell id="o9LPt7uoENurph0ssOT0-2" value="规划路线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="o9LPt7uoENurph0ssOT0-1">
           <mxGeometry y="30" width="165" height="90" as="geometry" />
@@ -73,7 +73,7 @@
           <mxGeometry y="30" width="165" height="90" as="geometry" />
         </mxCell>
         <mxCell id="o9LPt7uoENurph0ssOT0-5" value="2.3" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="484" y="1190" width="165" height="120" as="geometry" />
+          <mxGeometry x="440" y="1090" width="165" height="120" as="geometry" />
         </mxCell>
         <mxCell id="o9LPt7uoENurph0ssOT0-6" value="规划路线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="o9LPt7uoENurph0ssOT0-5">
           <mxGeometry y="30" width="165" height="90" as="geometry" />
