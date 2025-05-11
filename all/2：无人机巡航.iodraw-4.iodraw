@@ -78,6 +78,12 @@
         <mxCell id="o9LPt7uoENurph0ssOT0-6" value="缓存备份" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="o9LPt7uoENurph0ssOT0-5">
           <mxGeometry y="30" width="165" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="o9LPt7uoENurph0ssOT0-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="560" as="sourcePoint" />
+            <mxPoint x="380" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
