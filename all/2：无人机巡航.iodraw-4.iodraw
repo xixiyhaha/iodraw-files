@@ -144,6 +144,12 @@
         <mxCell id="o9LPt7uoENurph0ssOT0-23" value="操作员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="445" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="o9LPt7uoENurph0ssOT0-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9LPt7uoENurph0ssOT0-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="404" y="616" as="sourcePoint" />
+            <mxPoint x="132" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
