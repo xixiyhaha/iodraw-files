@@ -55,7 +55,7 @@
           <mxGeometry x="54" y="505" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fodAHgAIVji1TjG1SLI0-18" value="2.2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="324" y="720" width="165" height="120" as="geometry" />
+          <mxGeometry x="39" y="730" width="165" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fodAHgAIVji1TjG1SLI0-19" value="低空悬停测试数据流稳定性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="fodAHgAIVji1TjG1SLI0-18" vertex="1">
           <mxGeometry y="30" width="165" height="90" as="geometry" />
@@ -70,6 +70,12 @@
           <mxGeometry x="319" y="1130" width="165" height="120" as="geometry" />
         </mxCell>
         <mxCell id="o9LPt7uoENurph0ssOT0-4" value="扫描并同步数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="o9LPt7uoENurph0ssOT0-3">
+          <mxGeometry y="30" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="o9LPt7uoENurph0ssOT0-5" value="2.3" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="319" y="1370" width="165" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="o9LPt7uoENurph0ssOT0-6" value="规划路线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="o9LPt7uoENurph0ssOT0-5">
           <mxGeometry y="30" width="165" height="90" as="geometry" />
         </mxCell>
       </root>
