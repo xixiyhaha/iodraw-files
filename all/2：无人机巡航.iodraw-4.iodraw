@@ -61,13 +61,13 @@
           <mxGeometry y="30" width="165" height="90" as="geometry" />
         </mxCell>
         <mxCell id="o9LPt7uoENurph0ssOT0-1" value="2.3" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="321.5" y="930" width="165" height="120" as="geometry" />
+          <mxGeometry x="500" y="880" width="165" height="120" as="geometry" />
         </mxCell>
         <mxCell id="o9LPt7uoENurph0ssOT0-2" value="规划路线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="o9LPt7uoENurph0ssOT0-1">
           <mxGeometry y="30" width="165" height="90" as="geometry" />
         </mxCell>
         <mxCell id="o9LPt7uoENurph0ssOT0-3" value="2.4" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="319" y="1130" width="165" height="120" as="geometry" />
+          <mxGeometry x="144" y="1060" width="165" height="120" as="geometry" />
         </mxCell>
         <mxCell id="o9LPt7uoENurph0ssOT0-4" value="扫描并同步数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="o9LPt7uoENurph0ssOT0-3">
           <mxGeometry y="30" width="165" height="90" as="geometry" />
