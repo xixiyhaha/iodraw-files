@@ -42,7 +42,7 @@
         <mxCell id="fodAHgAIVji1TjG1SLI0-11" value="无人机高光谱相机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="634" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fodAHgAIVji1TjG1SLI0-14" value="2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+        <mxCell id="fodAHgAIVji1TjG1SLI0-14" value="2.1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="324" y="480" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fodAHgAIVji1TjG1SLI0-15" value="无人机巡航" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="fodAHgAIVji1TjG1SLI0-14">
