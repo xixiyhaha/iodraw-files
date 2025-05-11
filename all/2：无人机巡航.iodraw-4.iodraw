@@ -123,6 +123,9 @@
             <mxPoint x="153" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="o9LPt7uoENurph0ssOT0-17" value="无人机高光谱相机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="644" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
