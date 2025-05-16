@@ -429,7 +429,7 @@
         <mxCell id="H_xWsURy5NHQ80msD7Z5-8" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;储存状态通知&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="731.63" y="2320" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AOUC3uqhX4Ur7ue7EB7A-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;align=center;entryX=0.997;entryY=0.453;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="AOUC3uqhX4Ur7ue7EB7A-22" edge="1" target="H_xWsURy5NHQ80msD7Z5-8">
+        <mxCell id="AOUC3uqhX4Ur7ue7EB7A-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;align=center;entryX=0.991;entryY=0.517;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="AOUC3uqhX4Ur7ue7EB7A-22" edge="1" target="H_xWsURy5NHQ80msD7Z5-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="843.0000000000002" y="2335" as="targetPoint" />
           </mxGeometry>
