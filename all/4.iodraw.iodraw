@@ -88,9 +88,6 @@
         <mxCell id="AOUC3uqhX4Ur7ue7EB7A-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="690" y="3240" width="630" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="AOUC3uqhX4Ur7ue7EB7A-6" value="" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=center;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1026.75" y="1960" width="121.5" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="AOUC3uqhX4Ur7ue7EB7A-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;D2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1000" y="2125" width="40" height="30" as="geometry" />
         </mxCell>
@@ -115,9 +112,9 @@
             <mxPoint x="1168" y="2320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AOUC3uqhX4Ur7ue7EB7A-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.658;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1;align=center;" parent="1" source="AOUC3uqhX4Ur7ue7EB7A-6" target="AOUC3uqhX4Ur7ue7EB7A-20" edge="1">
+        <mxCell id="AOUC3uqhX4Ur7ue7EB7A-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;align=center;" parent="1" source="H_xWsURy5NHQ80msD7Z5-4" target="AOUC3uqhX4Ur7ue7EB7A-20" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1088" y="2180" as="sourcePoint" />
+            <mxPoint x="1106.6970000000006" y="2011.5" as="sourcePoint" />
             <mxPoint x="1080.5" y="2250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
