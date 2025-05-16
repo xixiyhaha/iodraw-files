@@ -118,7 +118,7 @@
         <mxCell id="AOUC3uqhX4Ur7ue7EB7A-16" value="信息调取请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1168" y="2235" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AOUC3uqhX4Ur7ue7EB7A-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.343;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;align=center;" parent="1" target="AOUC3uqhX4Ur7ue7EB7A-22" edge="1">
+        <mxCell id="AOUC3uqhX4Ur7ue7EB7A-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.343;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;align=center;exitX=0.639;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="H_xWsURy5NHQ80msD7Z5-7" target="AOUC3uqhX4Ur7ue7EB7A-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="843.6300000000001" y="2400.047619047619" as="sourcePoint" />
           </mxGeometry>
@@ -131,11 +131,6 @@
         </mxCell>
         <mxCell id="AOUC3uqhX4Ur7ue7EB7A-20" value="4" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="1007.5" y="2260" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="AOUC3uqhX4Ur7ue7EB7A-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;align=center;" parent="AOUC3uqhX4Ur7ue7EB7A-20" source="AOUC3uqhX4Ur7ue7EB7A-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-164.49999999999977" y="75" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="AOUC3uqhX4Ur7ue7EB7A-22" value="处理后光谱&lt;div&gt;信息上传系统&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="AOUC3uqhX4Ur7ue7EB7A-20" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
@@ -433,6 +428,11 @@
         </mxCell>
         <mxCell id="H_xWsURy5NHQ80msD7Z5-8" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;储存状态通知&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="731.63" y="2320" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AOUC3uqhX4Ur7ue7EB7A-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;align=center;entryX=0.997;entryY=0.453;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="AOUC3uqhX4Ur7ue7EB7A-22" edge="1" target="H_xWsURy5NHQ80msD7Z5-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="843.0000000000002" y="2335" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
