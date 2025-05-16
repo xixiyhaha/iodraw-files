@@ -1154,11 +1154,11 @@
         <mxCell id="1NBiJkCU1C5ca1XSSafl-367" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;系统初始光谱信息库&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=1;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-1863.87" y="2610" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1NBiJkCU1C5ca1XSSafl-368" value="D3" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=center;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];shadow=1;fontStyle=0;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="1NBiJkCU1C5ca1XSSafl-368" value="D3" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];shadow=1;fontStyle=0;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="-1867.5" y="2930" width="121.37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1NBiJkCU1C5ca1XSSafl-369" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;系统光谱处理信息库&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="-1842.5" y="2940" width="150" height="30" as="geometry" />
+          <mxGeometry x="-1820" y="2885" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1NBiJkCU1C5ca1XSSafl-370" value="D2" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];shadow=1;fontStyle=0;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="-972.5" y="2500" width="121.37" height="50" as="geometry" />
@@ -1166,11 +1166,11 @@
         <mxCell id="1NBiJkCU1C5ca1XSSafl-371" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;系统初始光谱信息库&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=1;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-950" y="2500" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1NBiJkCU1C5ca1XSSafl-372" value="D3" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=center;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];shadow=1;fontStyle=0;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="1NBiJkCU1C5ca1XSSafl-372" value="D3" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];shadow=1;fontStyle=0;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="-1876.37" y="3360" width="121.37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1NBiJkCU1C5ca1XSSafl-373" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;系统光谱处理信息库&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="-1760.87" y="3400" width="150" height="30" as="geometry" />
+          <mxGeometry x="-1848.87" y="3370" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1NBiJkCU1C5ca1XSSafl-376" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="1900" y="2945" width="460" height="540" as="geometry" />
