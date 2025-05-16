@@ -434,8 +434,8 @@
         <mxCell id="H_xWsURy5NHQ80msD7Z5-9" value="D3" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="1320" y="2215" width="121.37" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="H_xWsURy5NHQ80msD7Z5-10" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;系统初始光谱信息库&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1345" y="2215" width="150" height="60" as="geometry" />
+        <mxCell id="H_xWsURy5NHQ80msD7Z5-10" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;系统光谱处理信息库&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1345" y="2225" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
