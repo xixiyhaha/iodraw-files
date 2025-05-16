@@ -1979,7 +1979,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1NBiJkCU1C5ca1XSSafl-60" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;系统初始光谱信息库&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="706.5" y="1035" width="150" height="30" as="geometry" />
+          <mxGeometry x="730.5" y="955" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
