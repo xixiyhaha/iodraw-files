@@ -88,9 +88,6 @@
         <mxCell id="AOUC3uqhX4Ur7ue7EB7A-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="690" y="3240" width="630" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="AOUC3uqhX4Ur7ue7EB7A-8" value="D0" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=center;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="728.63" y="2295" width="108.75" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="AOUC3uqhX4Ur7ue7EB7A-10" value="数据处理员" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1295.5" y="2110" width="120" height="60" as="geometry" />
         </mxCell>
@@ -432,10 +429,10 @@
           <mxGeometry x="1003.75" y="2115" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H_xWsURy5NHQ80msD7Z5-7" value="D0" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="699.5" y="2155" width="121.37" height="50" as="geometry" />
+          <mxGeometry x="702.5" y="2310" width="121.37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="H_xWsURy5NHQ80msD7Z5-8" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;储存状态通知&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="744.5" y="2170" width="110" height="30" as="geometry" />
+          <mxGeometry x="731.63" y="2320" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
