@@ -1391,6 +1391,9 @@
         <mxCell id="1NBiJkCU1C5ca1XSSafl-373" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;系统光谱处理信息库&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-1851.37" y="3370" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1NBiJkCU1C5ca1XSSafl-374" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3030" y="220" width="2398" height="1410" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
