@@ -1142,11 +1142,11 @@
             <mxPoint x="-1759.4999999999998" y="2255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NBiJkCU1C5ca1XSSafl-364" value="D3" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=center;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];shadow=1;fontStyle=0;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="1NBiJkCU1C5ca1XSSafl-364" value="D3" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];shadow=1;fontStyle=0;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="-1312.5" y="2215" width="121.37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1NBiJkCU1C5ca1XSSafl-365" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;系统光谱处理信息库&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="-1287.5" y="2225" width="150" height="30" as="geometry" />
+          <mxGeometry x="-1291" y="2225" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1NBiJkCU1C5ca1XSSafl-366" value="D2" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];shadow=1;fontStyle=0;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="-1888.87" y="2610" width="121.37" height="50" as="geometry" />
