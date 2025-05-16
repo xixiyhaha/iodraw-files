@@ -189,7 +189,7 @@
         <mxCell id="AOUC3uqhX4Ur7ue7EB7A-56" value="数据处理员" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2060" y="2325" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AOUC3uqhX4Ur7ue7EB7A-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;align=center;" parent="1" target="AOUC3uqhX4Ur7ue7EB7A-62" edge="1">
+        <mxCell id="AOUC3uqhX4Ur7ue7EB7A-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.321;exitY=1.04;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;align=center;exitPerimeter=0;" parent="1" source="H_xWsURy5NHQ80msD7Z5-18" target="AOUC3uqhX4Ur7ue7EB7A-62" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1680.75" y="2590" as="sourcePoint" />
           </mxGeometry>
@@ -437,10 +437,10 @@
           <mxGeometry x="760" y="3020" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H_xWsURy5NHQ80msD7Z5-17" value="D2" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="1505" y="2410" width="121.37" height="50" as="geometry" />
+          <mxGeometry x="1630" y="2580" width="121.37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="H_xWsURy5NHQ80msD7Z5-18" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;系统初始光谱信息库&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="2410" width="150" height="60" as="geometry" />
+          <mxGeometry x="1655" y="2580" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
