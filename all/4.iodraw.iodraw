@@ -94,9 +94,6 @@
         <mxCell id="AOUC3uqhX4Ur7ue7EB7A-11" value="D3" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=center;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1285.5" y="2295" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AOUC3uqhX4Ur7ue7EB7A-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;系统光谱处理信息库&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1340" y="2400" width="140" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="AOUC3uqhX4Ur7ue7EB7A-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=1.158;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;align=center;" parent="1" source="AOUC3uqhX4Ur7ue7EB7A-10" target="AOUC3uqhX4Ur7ue7EB7A-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="848" y="2005" as="sourcePoint" />
