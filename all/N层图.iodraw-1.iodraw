@@ -1644,7 +1644,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1NBiJkCU1C5ca1XSSafl-566" value="基本参数信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="2322.5" y="325" width="100" height="30" as="geometry" />
+          <mxGeometry x="2322.5" y="280" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1NBiJkCU1C5ca1XSSafl-567" value="" style="endArrow=classic;html=1;exitX=1.019;exitY=0.319;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;verticalAlign=middle;align=center;" parent="1" source="1NBiJkCU1C5ca1XSSafl-560" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1666,11 +1666,11 @@
         <mxCell id="1NBiJkCU1C5ca1XSSafl-571" value="设置无人机参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=0" parent="1NBiJkCU1C5ca1XSSafl-570" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1NBiJkCU1C5ca1XSSafl-572" value="D1" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=center;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontStyle=0;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="1NBiJkCU1C5ca1XSSafl-572" value="D1" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontStyle=0;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2380" y="445" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1NBiJkCU1C5ca1XSSafl-573" value="基本参数信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="2399" y="445" width="100" height="30" as="geometry" />
+          <mxGeometry x="2402.5" y="485" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1NBiJkCU1C5ca1XSSafl-574" value="2.2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2580" y="580" width="169" height="120" as="geometry" />
