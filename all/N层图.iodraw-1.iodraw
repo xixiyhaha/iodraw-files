@@ -1214,6 +1214,9 @@
         <mxCell id="1NBiJkCU1C5ca1XSSafl-389" value="D0" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=center;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontStyle=0;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1000" y="1870" width="108.75" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="1NBiJkCU1C5ca1XSSafl-390" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;储存状态通知&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="1170" y="1890" width="110" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="1NBiJkCU1C5ca1XSSafl-391" value="D3" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=center;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontStyle=0;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1556.87" y="1870" width="130" height="50" as="geometry" />
         </mxCell>
@@ -1238,7 +1241,7 @@
         <mxCell id="1NBiJkCU1C5ca1XSSafl-396" value="信息调取请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1449.37" y="2075" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1NBiJkCU1C5ca1XSSafl-397" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1.01;exitDx=0;exitDy=0;entryX=0.009;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;fontStyle=0;verticalAlign=middle;align=center;" parent="1" source="1NBiJkCU1C5ca1XSSafl-390" target="1NBiJkCU1C5ca1XSSafl-400" edge="1">
+        <mxCell id="1NBiJkCU1C5ca1XSSafl-397" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1.01;exitDx=0;exitDy=0;entryX=0.009;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;fontStyle=0;verticalAlign=middle;align=center;" parent="1" source="1NBiJkCU1C5ca1XSSafl-389" target="1NBiJkCU1C5ca1XSSafl-400" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1567.37" y="1805" as="sourcePoint" />
             <mxPoint x="1449.37" y="1905" as="targetPoint" />
@@ -1971,15 +1974,6 @@
             <mxPoint x="506" y="540" as="sourcePoint" />
             <mxPoint x="1500" y="80" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="IPAOyEn9AEkBivIMlMKk-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1.01;exitDx=0;exitDy=0;entryX=0.009;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;fontStyle=0;verticalAlign=middle;align=center;" edge="1" parent="1" source="1NBiJkCU1C5ca1XSSafl-389" target="1NBiJkCU1C5ca1XSSafl-390">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1076" y="1920" as="sourcePoint" />
-            <mxPoint x="1280" y="2080" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1NBiJkCU1C5ca1XSSafl-390" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;储存状态通知&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1022.4999999999999" y="1920" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
