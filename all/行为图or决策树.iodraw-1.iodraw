@@ -82,7 +82,7 @@
         <mxCell id="L1ua2iWBCavyxOVQg6Py-79" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="385" y="482.5" width="50" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="L1ua2iWBCavyxOVQg6Py-80" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;高光谱分块连续捕获&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;传输数据&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;本地加密缓存&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="L1ua2iWBCavyxOVQg6Py-80" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;高光谱分块连续捕获&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;传输数据&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;本地加密缓存&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="388" y="472.5" width="74.5" height="155" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-81" value="后处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
