@@ -50,7 +50,7 @@
           <mxGeometry x="20" y="575" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-18" value="低空悬停测试" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="78" y="485" width="60" height="30" as="geometry" />
+          <mxGeometry x="78" y="495" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-19" value="数据流测试" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="75" y="600" width="60" height="30" as="geometry" />
