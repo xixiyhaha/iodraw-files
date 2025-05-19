@@ -344,7 +344,7 @@
           <mxGeometry x="110" y="90" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QXo6FUQHh0edRCsd_yeu-2" value="配准偏移诊断" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="130" width="60" height="30" as="geometry" />
+          <mxGeometry x="40" y="155" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QXo6FUQHh0edRCsd_yeu-3" value="循环校正" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="85" width="60" height="30" as="geometry" />
@@ -353,7 +353,7 @@
           <mxGeometry x="370" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QXo6FUQHh0edRCsd_yeu-5" value="IF 像素偏移&amp;gt;1.0&lt;div&gt;标记需要矫正&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ELSE 正常处理&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="50" width="50" height="100" as="geometry" />
+          <mxGeometry x="180" y="50" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QXo6FUQHh0edRCsd_yeu-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;空间偏移校正&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;检验RMSE&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="50" width="50" height="100" as="geometry" />
