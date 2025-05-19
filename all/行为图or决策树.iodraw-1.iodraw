@@ -303,7 +303,7 @@
           <mxGeometry x="115" y="525" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGu930xOmAI3sMmz1p_O-13" value="导入植被数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;主成分分析&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="384" y="155" width="60" height="30" as="geometry" />
+          <mxGeometry x="384" y="155" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGu930xOmAI3sMmz1p_O-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="454" y="55" width="50" height="100" as="geometry" />
