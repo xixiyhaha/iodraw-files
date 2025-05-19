@@ -17,7 +17,7 @@
           <mxGeometry x="135" y="155" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-5" value="IF 电池电量≥80%&lt;div&gt;进行下一项&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="180" y="155" width="60" height="30" as="geometry" />
+          <mxGeometry x="187" y="155" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-6" value="ELSE 提示充电" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="187" y="240" width="60" height="30" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="179.5" y="280" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-13" value="巡航速度：5-8m/s" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="345" width="65" height="30" as="geometry" />
+          <mxGeometry x="182" y="345" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-14" value="光谱范围：400-2500nm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="165" y="390" width="75" height="30" as="geometry" />
+          <mxGeometry x="187" y="420" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="290" width="50" height="140" as="geometry" />
