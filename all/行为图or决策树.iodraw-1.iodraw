@@ -38,7 +38,7 @@
           <mxGeometry x="170" y="345" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-14" value="光谱范围：400-2500nm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="380" width="75" height="30" as="geometry" />
+          <mxGeometry x="165" y="390" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="300" width="50" height="120" as="geometry" />
