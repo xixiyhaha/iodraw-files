@@ -278,6 +278,11 @@
         <mxCell id="sGu930xOmAI3sMmz1p_O-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="440" width="50" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="RhVwtOy53OdLhr9YCrEa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sGu930xOmAI3sMmz1p_O-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sGu930xOmAI3sMmz1p_O-5" value="预处理阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="145" width="60" height="30" as="geometry" />
         </mxCell>
