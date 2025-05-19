@@ -276,7 +276,7 @@
           <mxGeometry x="384" y="83" width="50" height="155" as="geometry" />
         </mxCell>
         <mxCell id="sGu930xOmAI3sMmz1p_O-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="382" y="287.5" width="50" height="200" as="geometry" />
+          <mxGeometry x="382" y="287.5" width="50" height="182.5" as="geometry" />
         </mxCell>
         <mxCell id="sGu930xOmAI3sMmz1p_O-5" value="预处理阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="145" width="70" height="30" as="geometry" />
