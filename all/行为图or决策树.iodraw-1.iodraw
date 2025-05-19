@@ -104,31 +104,31 @@
           <mxGeometry x="467.5" y="535" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-87" value="返航" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="298" y="660" width="60" height="30" as="geometry" />
+          <mxGeometry x="303" y="695" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-88" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="358" y="610" width="50" height="140" as="geometry" />
+          <mxGeometry x="363" y="645" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-89" value="电量检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="353" y="610" width="60" height="30" as="geometry" />
+          <mxGeometry x="358" y="645" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-90" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="408" y="575" width="50" height="100" as="geometry" />
+          <mxGeometry x="413" y="610" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-91" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.08;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="L1ua2iWBCavyxOVQg6Py-90" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="488" y="615" as="sourcePoint" />
-            <mxPoint x="458" y="583" as="targetPoint" />
+            <mxPoint x="493" y="650" as="sourcePoint" />
+            <mxPoint x="463" y="618" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-92" value="IF 电量&amp;lt;20%&lt;div&gt;激活紧急降落&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="452" y="565" width="90" height="30" as="geometry" />
+          <mxGeometry x="457" y="600" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-93" value="ELSE&lt;div&gt;正常返航&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="458" y="660" width="60" height="30" as="geometry" />
+          <mxGeometry x="463" y="695" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-94" value="实时动态避障" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="353" y="715" width="60" height="30" as="geometry" />
+          <mxGeometry x="358" y="750" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
