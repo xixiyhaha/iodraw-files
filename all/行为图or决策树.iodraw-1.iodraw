@@ -317,7 +317,7 @@
         <mxCell id="sGu930xOmAI3sMmz1p_O-18" value="输出结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="387" y="427.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sGu930xOmAI3sMmz1p_O-19" value="地理坐标系文件&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;混淆矩阵（图像精度检验）&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
+        <mxCell id="sGu930xOmAI3sMmz1p_O-19" value="&amp;nbsp; &amp;nbsp;地理坐标系文件&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;混淆矩阵（图像精度检验）&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="392.5" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
