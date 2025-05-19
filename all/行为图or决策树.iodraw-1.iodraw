@@ -294,10 +294,10 @@
           <mxGeometry x="120" y="75" width="60" height="170" as="geometry" />
         </mxCell>
         <mxCell id="sGu930xOmAI3sMmz1p_O-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="125" width="50" height="70" as="geometry" />
+          <mxGeometry x="195" y="180" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sGu930xOmAI3sMmz1p_O-11" value="校准数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;计算邻近效应&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="185" y="145" width="60" height="30" as="geometry" />
+          <mxGeometry x="190" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGu930xOmAI3sMmz1p_O-12" value="数据对齐&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;调整像素坐标&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;移除云阴影区域&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="115" y="525" width="60" height="30" as="geometry" />
