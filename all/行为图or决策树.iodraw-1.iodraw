@@ -262,7 +262,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QBIPPnPDb8Emim-ZjGNi" name="数据预处理标准">
-    <mxGraphModel dx="1173" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2000" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -319,6 +319,9 @@
         </mxCell>
         <mxCell id="sGu930xOmAI3sMmz1p_O-19" value="&amp;nbsp; &amp;nbsp;地理坐标系文件&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;混淆矩阵（图像精度检验）&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="392.5" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RhVwtOy53OdLhr9YCrEa-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="148" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
