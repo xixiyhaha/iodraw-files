@@ -86,43 +86,43 @@
           <mxGeometry x="423" y="440" width="74.5" height="155" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-81" value="后处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="235" y="697.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="15" y="722.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-82" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="295" y="652.5" width="50" height="120" as="geometry" />
+          <mxGeometry x="75" y="677.5" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-83" value="数据校验&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;上传至地面站&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="295" y="652.5" width="60" height="120" as="geometry" />
+          <mxGeometry x="75" y="677.5" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-84" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="692.5" width="50" height="100" as="geometry" />
+          <mxGeometry x="135" y="717.5" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-85" value="IF 上传成功&lt;div&gt;本地缓存&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="405" y="672.5" width="66" height="30" as="geometry" />
+          <mxGeometry x="185" y="697.5" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-86" value="ELSE&lt;div&gt;缓存保留24h&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="399.5" y="777.5" width="77" height="30" as="geometry" />
+          <mxGeometry x="179.5" y="802.5" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-87" value="返航" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="495" y="710" width="60" height="30" as="geometry" />
+          <mxGeometry x="275" y="735" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-88" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="555" y="660" width="50" height="140" as="geometry" />
+          <mxGeometry x="335" y="685" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-89" value="电量检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="555" y="660" width="60" height="30" as="geometry" />
+          <mxGeometry x="335" y="685" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-90" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="615" y="625" width="50" height="100" as="geometry" />
+          <mxGeometry x="395" y="650" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-92" value="IF 电量&amp;lt;20%&lt;div&gt;激活紧急降落&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="659" y="615" width="90" height="30" as="geometry" />
+          <mxGeometry x="439" y="640" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-93" value="ELSE&lt;div&gt;正常返航&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="665" y="710" width="60" height="30" as="geometry" />
+          <mxGeometry x="445" y="735" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-94" value="实时动态避障" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="555" y="765" width="60" height="30" as="geometry" />
+          <mxGeometry x="335" y="790" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
