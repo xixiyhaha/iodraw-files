@@ -20,7 +20,7 @@
           <mxGeometry x="180" y="155" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-6" value="ELSE 提示充电" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="180" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="187" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-7" value="检查连接状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="78" y="250" width="60" height="30" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="15" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-11" value="飞行高度：50-100m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="172.5" y="280" width="75" height="30" as="geometry" />
+          <mxGeometry x="179.5" y="280" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-13" value="巡航速度：5-8m/s" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="345" width="65" height="30" as="geometry" />
