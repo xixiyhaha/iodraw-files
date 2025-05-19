@@ -91,11 +91,8 @@
         <mxCell id="L1ua2iWBCavyxOVQg6Py-82" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="358" y="410" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="7smJM5-Ty242Qs_mxILp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="L1ua2iWBCavyxOVQg6Py-83" target="L1ua2iWBCavyxOVQg6Py-82">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-83" value="数据校验&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;上传至地面站&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="353" y="430" width="60" height="30" as="geometry" />
+          <mxGeometry x="353" y="430" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-84" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="408" y="410" width="50" height="100" as="geometry" />
