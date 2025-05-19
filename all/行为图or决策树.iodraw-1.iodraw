@@ -83,7 +83,7 @@
           <mxGeometry x="363" y="210" width="50" height="135" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-80" value="高光谱分块连续捕获&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;传输数据&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;本地加密缓存&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="365.5" y="265" width="60" height="30" as="geometry" />
+          <mxGeometry x="365.5" y="265" width="64.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-81" value="后处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="298" y="455" width="60" height="30" as="geometry" />
