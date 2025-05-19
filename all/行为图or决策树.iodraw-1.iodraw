@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="120" width="50" height="300" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-2" value="启动设备检查序列" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="75" y="150" width="60" height="30" as="geometry" />
+          <mxGeometry x="75" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-3" value="检测电池电量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="75" y="190" width="60" height="30" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="180" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-7" value="检查连接状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="75" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="75" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-8" value="设置飞行参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="75" y="350" width="60" height="30" as="geometry" />
