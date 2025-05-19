@@ -282,13 +282,13 @@
           <mxGeometry x="40" y="145" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGu930xOmAI3sMmz1p_O-6" value="特征工程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="324" y="146" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="145.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGu930xOmAI3sMmz1p_O-7" value="几何校正" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="45" y="375" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGu930xOmAI3sMmz1p_O-8" value="分类流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="326" y="372.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="372.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGu930xOmAI3sMmz1p_O-9" value="输入原始光谱数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;辐射校正&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="126" y="76" width="60" height="170" as="geometry" />
