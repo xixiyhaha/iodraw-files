@@ -29,7 +29,7 @@
           <mxGeometry x="78" y="345" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-9" value="设备检查序列" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="15" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-11" value="飞行高度：50-100m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="310" width="75" height="30" as="geometry" />
