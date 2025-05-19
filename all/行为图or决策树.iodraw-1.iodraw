@@ -110,7 +110,7 @@
           <mxGeometry x="363" y="645" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-89" value="电量检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="358" y="645" width="60" height="30" as="geometry" />
+          <mxGeometry x="363" y="645" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-90" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="413" y="610" width="50" height="100" as="geometry" />
