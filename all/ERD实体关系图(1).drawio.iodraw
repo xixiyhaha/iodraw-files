@@ -222,7 +222,7 @@
         <mxCell id="Vpvu4iEn3KOzrzClhAXZ-26" value="云端检查" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1020" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vpvu4iEn3KOzrzClhAXZ-27" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="Vpvu4iEn3KOzrzClhAXZ-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="EVaLRi9frzDFaMceQDmR-90">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="560" as="sourcePoint" />
             <mxPoint x="910" y="560" as="targetPoint" />
