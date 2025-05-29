@@ -55,9 +55,6 @@
         <mxCell id="3Fb8KqdQIsiTUatWuBnf-20" value="上传" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="510" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3Fb8KqdQIsiTUatWuBnf-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="3Fb8KqdQIsiTUatWuBnf-21" target="3Fb8KqdQIsiTUatWuBnf-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3Fb8KqdQIsiTUatWuBnf-21" value="数据分析员" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="955" width="160" height="120" as="geometry" />
         </mxCell>
