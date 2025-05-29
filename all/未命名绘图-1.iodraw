@@ -48,12 +48,6 @@
         <mxCell id="EVaLRi9frzDFaMceQDmR-61" value="集成方式&lt;div&gt;光学性能&lt;/div&gt;&lt;div&gt;镜头参数&lt;/div&gt;&lt;div&gt;存储容量&lt;/div&gt;&lt;div&gt;环境适配&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="EVaLRi9frzDFaMceQDmR-60" vertex="1">
           <mxGeometry y="50" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="EVaLRi9frzDFaMceQDmR-62" value="数据库" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="480" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="EVaLRi9frzDFaMceQDmR-63" value="数据库名称&lt;div&gt;物理存储信息&lt;/div&gt;&lt;div&gt;最后备份时间&lt;/div&gt;&lt;div&gt;所属服务器IP&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="EVaLRi9frzDFaMceQDmR-62" vertex="1">
-          <mxGeometry y="50" width="160" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="EVaLRi9frzDFaMceQDmR-64" value="无人机操作员" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="100" width="160" height="140" as="geometry" />
         </mxCell>
@@ -65,15 +59,6 @@
         </mxCell>
         <mxCell id="EVaLRi9frzDFaMceQDmR-65" value="&lt;div&gt;姓名&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;工号&lt;/span&gt;&lt;/div&gt;&lt;div&gt;权限级别&lt;/div&gt;&lt;div&gt;认证状态&lt;/div&gt;&lt;div&gt;最近操作时间&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="EVaLRi9frzDFaMceQDmR-64" vertex="1">
           <mxGeometry y="50" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="EVaLRi9frzDFaMceQDmR-68" value="数据记录员" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="710" y="780" width="160" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="Vpvu4iEn3KOzrzClhAXZ-71" value="" style="endArrow=none;html=1;rounded=0;" parent="EVaLRi9frzDFaMceQDmR-68" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="-20" as="sourcePoint" />
-            <mxPoint x="50" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="EVaLRi9frzDFaMceQDmR-70" value="用户" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="-130" width="160" height="120" as="geometry" />
@@ -315,12 +300,6 @@
             <mxPoint x="740" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vpvu4iEn3KOzrzClhAXZ-72" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="760" as="sourcePoint" />
-            <mxPoint x="760" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Vpvu4iEn3KOzrzClhAXZ-73" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="760" as="sourcePoint" />
@@ -386,6 +365,12 @@
             <mxPoint x="240" y="90" as="sourcePoint" />
             <mxPoint x="240" y="60" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mPyzW_efLoA93d-QoDgi-2" value="D2（系统初始光谱信息库）" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="440" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="mPyzW_efLoA93d-QoDgi-3" value="数据id（主键）&lt;div&gt;参数id（外键）&lt;/div&gt;&lt;div&gt;任务id（外键）&lt;/div&gt;&lt;div&gt;二进制流&lt;/div&gt;&lt;div&gt;HDR元数据&lt;/div&gt;&lt;div&gt;创建时间&lt;/div&gt;&lt;div&gt;更新时间&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="mPyzW_efLoA93d-QoDgi-2">
+          <mxGeometry y="50" width="150" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
