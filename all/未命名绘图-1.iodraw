@@ -66,17 +66,15 @@
         <mxCell id="EVaLRi9frzDFaMceQDmR-77" value="搭载" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="180" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="EVaLRi9frzDFaMceQDmR-81" target="EVaLRi9frzDFaMceQDmR-65">
+        <mxCell id="mPyzW_efLoA93d-QoDgi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="EVaLRi9frzDFaMceQDmR-65">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="900" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="520" y="1030" />
               <mxPoint x="40" y="1030" />
               <mxPoint x="40" y="172" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="EVaLRi9frzDFaMceQDmR-81" value="记录数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="460" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EVaLRi9frzDFaMceQDmR-84" target="mPyzW_efLoA93d-QoDgi-3">
           <mxGeometry relative="1" as="geometry" />
@@ -192,12 +190,6 @@
         <mxCell id="Vpvu4iEn3KOzrzClhAXZ-35" value="分发" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="300" y="390" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vpvu4iEn3KOzrzClhAXZ-36" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="870" as="sourcePoint" />
-            <mxPoint x="709" y="870" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vpvu4iEn3KOzrzClhAXZ-46" target="mPyzW_efLoA93d-QoDgi-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -268,7 +260,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-2" value="D2（系统初始光谱信息库）" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="400" width="150" height="170" as="geometry" />
+          <mxGeometry x="847" y="425" width="150" height="170" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-3" value="数据id（主键）&lt;div&gt;参数id（外键）&lt;/div&gt;&lt;div&gt;任务id（外键）&lt;/div&gt;&lt;div&gt;二进制流&lt;/div&gt;&lt;div&gt;HDR元数据&lt;/div&gt;&lt;div&gt;创建时间&lt;/div&gt;&lt;div&gt;更新时间&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="mPyzW_efLoA93d-QoDgi-2">
           <mxGeometry y="50" width="150" height="120" as="geometry" />
