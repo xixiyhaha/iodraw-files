@@ -473,8 +473,8 @@
         <mxCell id="mPyzW_efLoA93d-QoDgi-108" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1690" y="920" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-111" value="初始参数数据" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1659" y="490" width="140" height="60" as="geometry" />
+        <mxCell id="mPyzW_efLoA93d-QoDgi-111" value="飞行任务" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="-10" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
