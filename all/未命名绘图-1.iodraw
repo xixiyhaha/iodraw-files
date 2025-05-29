@@ -326,6 +326,12 @@
         <mxCell id="mPyzW_efLoA93d-QoDgi-21" value="集成方式&lt;div&gt;光学性能&lt;/div&gt;&lt;div&gt;镜头参数&lt;/div&gt;&lt;div&gt;存储容量&lt;/div&gt;&lt;div&gt;环境适配&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="mPyzW_efLoA93d-QoDgi-20">
           <mxGeometry y="50" width="160" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="mPyzW_efLoA93d-QoDgi-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-22" target="mPyzW_efLoA93d-QoDgi-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPyzW_efLoA93d-QoDgi-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-22" target="mPyzW_efLoA93d-QoDgi-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-22" value="搭载" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1210" y="620" width="120" height="60" as="geometry" />
         </mxCell>
