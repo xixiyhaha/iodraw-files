@@ -169,6 +169,12 @@
         <mxCell id="vRyoDCxu0NUPScXp256m-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Fb8KqdQIsiTUatWuBnf-2" target="3Fb8KqdQIsiTUatWuBnf-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vRyoDCxu0NUPScXp256m-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="640" as="sourcePoint" />
+            <mxPoint x="460" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
