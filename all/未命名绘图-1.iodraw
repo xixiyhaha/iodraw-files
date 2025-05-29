@@ -79,7 +79,7 @@
           <mxGeometry x="460" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EVaLRi9frzDFaMceQDmR-84" value="上传数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="590" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="-230" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EVaLRi9frzDFaMceQDmR-99" value="初始化影像数据" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="370" y="650" width="140" height="60" as="geometry" />
@@ -219,7 +219,7 @@
             <mxPoint x="560" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vpvu4iEn3KOzrzClhAXZ-73" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" edge="1" source="EVaLRi9frzDFaMceQDmR-65">
+        <mxCell id="Vpvu4iEn3KOzrzClhAXZ-73" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="EVaLRi9frzDFaMceQDmR-84" source="EVaLRi9frzDFaMceQDmR-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="760" as="sourcePoint" />
             <mxPoint x="650" y="730" as="targetPoint" />
