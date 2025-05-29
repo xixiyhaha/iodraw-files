@@ -130,9 +130,6 @@
         <mxCell id="3Fb8KqdQIsiTUatWuBnf-57" value="ISA" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1070" y="988" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vRyoDCxu0NUPScXp256m-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3Fb8KqdQIsiTUatWuBnf-22" target="3Fb8KqdQIsiTUatWuBnf-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="vRyoDCxu0NUPScXp256m-24" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3Fb8KqdQIsiTUatWuBnf-2" target="3Fb8KqdQIsiTUatWuBnf-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="640" as="sourcePoint" />
@@ -197,6 +194,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="640" as="sourcePoint" />
             <mxPoint x="600" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRyoDCxu0NUPScXp256m-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3Fb8KqdQIsiTUatWuBnf-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="650" as="sourcePoint" />
+            <mxPoint x="610" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
