@@ -474,7 +474,10 @@
           <mxGeometry x="1690" y="920" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-111" value="飞行任务" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="-30" width="140" height="60" as="geometry" />
+          <mxGeometry x="1190" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mPyzW_efLoA93d-QoDgi-112" value="校准数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1669" y="265" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
