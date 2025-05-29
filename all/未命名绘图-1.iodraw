@@ -219,6 +219,9 @@
             <mxPoint x="709" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mPyzW_efLoA93d-QoDgi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vpvu4iEn3KOzrzClhAXZ-46" target="mPyzW_efLoA93d-QoDgi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Vpvu4iEn3KOzrzClhAXZ-46" value="授权" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="600" y="230" width="100" height="60" as="geometry" />
         </mxCell>
