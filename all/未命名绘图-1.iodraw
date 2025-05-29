@@ -413,9 +413,6 @@
         <mxCell id="mPyzW_efLoA93d-QoDgi-105" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1265" y="569" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-111" value="飞行任务" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="65" width="140" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-112" value="创建" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1420" y="65" width="120" height="60" as="geometry" />
         </mxCell>
@@ -434,9 +431,9 @@
             <mxPoint x="2076" y="51" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-116" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-111" target="mPyzW_efLoA93d-QoDgi-112">
+        <mxCell id="mPyzW_efLoA93d-QoDgi-116" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="mPyzW_efLoA93d-QoDgi-112">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2010" y="125" as="sourcePoint" />
+            <mxPoint x="1330" y="95" as="sourcePoint" />
             <mxPoint x="2086" y="126" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -446,9 +443,9 @@
             <mxPoint x="2096" y="136" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-118" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-111" target="mPyzW_efLoA93d-QoDgi-113">
+        <mxCell id="mPyzW_efLoA93d-QoDgi-118" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="mPyzW_efLoA93d-QoDgi-113">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1280" y="570" as="sourcePoint" />
+            <mxPoint x="1260" y="125" as="sourcePoint" />
             <mxPoint x="1280" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
