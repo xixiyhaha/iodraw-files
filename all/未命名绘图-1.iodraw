@@ -96,6 +96,9 @@
         <mxCell id="EVaLRi9frzDFaMceQDmR-77" value="搭载" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="180" y="640" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mPyzW_efLoA93d-QoDgi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="EVaLRi9frzDFaMceQDmR-81" target="EVaLRi9frzDFaMceQDmR-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EVaLRi9frzDFaMceQDmR-81" value="记录数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="460" y="840" width="120" height="60" as="geometry" />
         </mxCell>
