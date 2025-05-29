@@ -61,9 +61,6 @@
         <mxCell id="3Fb8KqdQIsiTUatWuBnf-22" value="&lt;div&gt;工号id（主键）&lt;/div&gt;&lt;div&gt;处理后数据id记录&lt;/div&gt;&lt;div&gt;最近操作时间&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="3Fb8KqdQIsiTUatWuBnf-21" vertex="1">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3Fb8KqdQIsiTUatWuBnf-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="3Fb8KqdQIsiTUatWuBnf-12" target="3Fb8KqdQIsiTUatWuBnf-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3Fb8KqdQIsiTUatWuBnf-25" value="调用处理后&lt;div&gt;数据&lt;/div&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="510" y="870" width="120" height="60" as="geometry" />
         </mxCell>
@@ -146,6 +143,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vRyoDCxu0NUPScXp256m-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3Fb8KqdQIsiTUatWuBnf-22" target="3Fb8KqdQIsiTUatWuBnf-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyoDCxu0NUPScXp256m-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3Fb8KqdQIsiTUatWuBnf-12" target="3Fb8KqdQIsiTUatWuBnf-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
