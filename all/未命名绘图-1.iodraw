@@ -342,7 +342,7 @@
           <mxGeometry y="50" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-62" value="初始化影像数据" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="1080" width="140" height="60" as="geometry" />
+          <mxGeometry x="1630" y="820" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-65" value="上传数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1659" y="1080" width="120" height="60" as="geometry" />
