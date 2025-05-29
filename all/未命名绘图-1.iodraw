@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ziuto2ZFa4xMA843VQfq">
-    <mxGraphModel dx="1564" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="2356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -341,14 +341,8 @@
         <mxCell id="mPyzW_efLoA93d-QoDgi-61" value="数据id（主键）&lt;div&gt;参数id（外键）&lt;/div&gt;&lt;div&gt;任务id（外键）&lt;/div&gt;&lt;div&gt;二进制流&lt;/div&gt;&lt;div&gt;HDR元数据&lt;/div&gt;&lt;div&gt;创建时间&lt;/div&gt;&lt;div&gt;更新时间&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="mPyzW_efLoA93d-QoDgi-60">
           <mxGeometry y="50" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-62" value="初始化影像数据" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="1100" width="140" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-65" value="上传数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1639" y="805" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-73" value="记录数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-79" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.997;exitY=0.439;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-17" target="mPyzW_efLoA93d-QoDgi-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -386,16 +380,10 @@
             <mxPoint x="1510" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-85" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-21" target="mPyzW_efLoA93d-QoDgi-73">
+        <mxCell id="mPyzW_efLoA93d-QoDgi-85" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1410" y="550" as="sourcePoint" />
-            <mxPoint x="1520" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-86" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-73" target="mPyzW_efLoA93d-QoDgi-62">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1420" y="560" as="sourcePoint" />
-            <mxPoint x="1530" y="560" as="targetPoint" />
+            <mxPoint x="1260" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-91" value="" style="endArrow=none;html=1;rounded=0;entryX=0.991;entryY=0.343;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-52" target="mPyzW_efLoA93d-QoDgi-31">
@@ -445,9 +433,6 @@
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-105" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1275" y="568" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-106" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="1050" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-107" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2025" y="1080" width="30" height="30" as="geometry" />
