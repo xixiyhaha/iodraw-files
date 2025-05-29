@@ -364,7 +364,7 @@
           <mxGeometry y="50" width="190" height="110" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-44" value="用户" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2070" y="780" width="160" height="120" as="geometry" />
+          <mxGeometry x="2075" y="770" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-45" value="&lt;div&gt;姓名&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;账&lt;span style=&quot;background-color: initial;&quot;&gt;号&lt;/span&gt;&lt;/div&gt;&lt;div&gt;认证状态&lt;/div&gt;&lt;div&gt;最后登录时间&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="mPyzW_efLoA93d-QoDgi-44">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
@@ -378,7 +378,7 @@
         <mxCell id="mPyzW_efLoA93d-QoDgi-49" value="校准数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="2075" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-52" target="mPyzW_efLoA93d-QoDgi-45">
+        <mxCell id="mPyzW_efLoA93d-QoDgi-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-52" target="mPyzW_efLoA93d-QoDgi-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-52" value="校准数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
