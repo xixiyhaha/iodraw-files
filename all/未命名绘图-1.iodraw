@@ -396,9 +396,6 @@
         <mxCell id="mPyzW_efLoA93d-QoDgi-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-65" target="mPyzW_efLoA93d-QoDgi-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-65" target="mPyzW_efLoA93d-QoDgi-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-65" value="上传数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1659" y="980" width="120" height="60" as="geometry" />
         </mxCell>
