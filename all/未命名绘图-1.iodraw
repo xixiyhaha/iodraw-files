@@ -367,9 +367,6 @@
         <mxCell id="mPyzW_efLoA93d-QoDgi-52" value="需求预沟通" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1860" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-59" value="记录操作" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="710" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-60" value="D2（系统初始光谱信息库）" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2062.5" y="1090" width="150" height="170" as="geometry" />
         </mxCell>
@@ -400,7 +397,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-73" value="记录数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="1210" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.04;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-65" target="mPyzW_efLoA93d-QoDgi-61">
           <mxGeometry relative="1" as="geometry" />
