@@ -319,11 +319,6 @@
         <mxCell id="mPyzW_efLoA93d-QoDgi-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-25" target="mPyzW_efLoA93d-QoDgi-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.431;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-25" target="mPyzW_efLoA93d-QoDgi-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1340" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-25" value="分发" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1460" y="460" width="100" height="60" as="geometry" />
         </mxCell>
