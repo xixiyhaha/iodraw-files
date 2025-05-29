@@ -407,9 +407,6 @@
         <mxCell id="mPyzW_efLoA93d-QoDgi-98" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2005" y="475" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-103" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1725" y="738" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-104" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1265" y="725" width="30" height="30" as="geometry" />
         </mxCell>
@@ -418,9 +415,6 @@
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-107" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2025" y="1080" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-108" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="920" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-111" value="飞行任务" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1190" y="65" width="140" height="60" as="geometry" />
@@ -509,8 +503,11 @@
         <mxCell id="mPyzW_efLoA93d-QoDgi-131" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2145" y="370" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-132" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1335" y="798" width="50" height="30" as="geometry" />
+        <mxCell id="mPyzW_efLoA93d-QoDgi-132" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1345" y="798" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPyzW_efLoA93d-QoDgi-133" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2035" y="808" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
