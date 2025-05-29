@@ -85,6 +85,11 @@
         <mxCell id="3Fb8KqdQIsiTUatWuBnf-33" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="875" y="920" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vRyoDCxu0NUPScXp256m-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Fb8KqdQIsiTUatWuBnf-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="1018" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3Fb8KqdQIsiTUatWuBnf-35" value="分析数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="510" y="988" width="120" height="60" as="geometry" />
         </mxCell>
