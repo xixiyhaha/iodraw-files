@@ -270,36 +270,6 @@
             <mxPoint x="560" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vpvu4iEn3KOzrzClhAXZ-57" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="mPyzW_efLoA93d-QoDgi-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="640" as="sourcePoint" />
-            <mxPoint x="700" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vpvu4iEn3KOzrzClhAXZ-58" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="640" as="sourcePoint" />
-            <mxPoint x="700" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vpvu4iEn3KOzrzClhAXZ-59" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="EVaLRi9frzDFaMceQDmR-84" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="690" as="sourcePoint" />
-            <mxPoint x="650" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vpvu4iEn3KOzrzClhAXZ-69" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="610" as="sourcePoint" />
-            <mxPoint x="740" y="610" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vpvu4iEn3KOzrzClhAXZ-70" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="620" as="sourcePoint" />
-            <mxPoint x="740" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Vpvu4iEn3KOzrzClhAXZ-73" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="760" as="sourcePoint" />
