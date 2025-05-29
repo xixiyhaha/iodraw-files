@@ -376,12 +376,6 @@
         <mxCell id="mPyzW_efLoA93d-QoDgi-49" value="校准数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="2075" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.358;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1880" y="849" as="sourcePoint" />
-            <mxPoint x="1798.0399999999995" y="851.2199999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-52" target="mPyzW_efLoA93d-QoDgi-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
