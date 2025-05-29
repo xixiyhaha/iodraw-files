@@ -299,7 +299,7 @@
         <mxCell id="mPyzW_efLoA93d-QoDgi-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-22" target="mPyzW_efLoA93d-QoDgi-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-22" target="mPyzW_efLoA93d-QoDgi-21">
+        <mxCell id="mPyzW_efLoA93d-QoDgi-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-22" target="mPyzW_efLoA93d-QoDgi-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-22" value="搭载" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
