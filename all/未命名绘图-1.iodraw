@@ -358,11 +358,6 @@
         <mxCell id="mPyzW_efLoA93d-QoDgi-65" value="上传数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1659" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-52">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1800" y="850" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-73" value="记录数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1210" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
@@ -433,6 +428,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1290" y="930" as="sourcePoint" />
             <mxPoint x="1290" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mPyzW_efLoA93d-QoDgi-90" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-35" target="mPyzW_efLoA93d-QoDgi-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="940" as="sourcePoint" />
+            <mxPoint x="1300" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
