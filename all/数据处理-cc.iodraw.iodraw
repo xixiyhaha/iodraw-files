@@ -140,7 +140,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3Fb8KqdQIsiTUatWuBnf-57" value="ISA" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="995" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
