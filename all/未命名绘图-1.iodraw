@@ -312,7 +312,7 @@
           <mxGeometry y="50" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-35" value="校准数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1659" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="1659" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-38" value="授权" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1870" y="480" width="100" height="60" as="geometry" />
@@ -472,6 +472,9 @@
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-108" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1690" y="920" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPyzW_efLoA93d-QoDgi-111" value="初始参数数据" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1659" y="490" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
