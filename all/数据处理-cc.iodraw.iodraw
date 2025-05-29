@@ -68,10 +68,10 @@
           <mxGeometry x="510" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Fb8KqdQIsiTUatWuBnf-27" value="D4（系统数据分析信息库）" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="935" width="160" height="160" as="geometry" />
+          <mxGeometry x="200" y="928" width="170" height="172" as="geometry" />
         </mxCell>
         <mxCell id="3Fb8KqdQIsiTUatWuBnf-28" value="报告id（主键）&lt;div&gt;数据id（外键）&lt;/div&gt;&lt;div&gt;任务id&lt;/div&gt;&lt;div&gt;波段反射率图表&lt;/div&gt;&lt;div&gt;分析结果&lt;/div&gt;&lt;div&gt;创建时间&lt;/div&gt;&lt;div&gt;更新时间&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="3Fb8KqdQIsiTUatWuBnf-27" vertex="1">
-          <mxGeometry y="50" width="160" height="110" as="geometry" />
+          <mxGeometry y="50" width="170" height="122" as="geometry" />
         </mxCell>
         <mxCell id="3Fb8KqdQIsiTUatWuBnf-29" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="750" y="750" width="30" height="30" as="geometry" />
