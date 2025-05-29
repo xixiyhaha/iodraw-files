@@ -287,41 +287,11 @@
             <mxRectangle x="160" y="440" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-13" value="" style="endArrow=none;html=1;rounded=0;exitX=1.022;exitY=0.361;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="mPyzW_efLoA93d-QoDgi-12" source="mPyzW_efLoA93d-QoDgi-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="130" as="sourcePoint" />
-            <mxPoint x="190" y="80" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="160" y="80" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="mPyzW_efLoA93d-QoDgi-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="100" as="sourcePoint" />
-            <mxPoint x="180" y="60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1.003;exitY=0.589;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="mPyzW_efLoA93d-QoDgi-12" source="mPyzW_efLoA93d-QoDgi-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="130" as="sourcePoint" />
-            <mxPoint x="180" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-16" value="" style="endArrow=none;html=1;rounded=0;exitX=1.013;exitY=0.178;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="mPyzW_efLoA93d-QoDgi-12" source="mPyzW_efLoA93d-QoDgi-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="130" as="sourcePoint" />
-            <mxPoint x="180" y="80" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="160" y="66" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-17" value="电量&lt;div&gt;序列号&lt;/div&gt;&lt;div&gt;任务类型&lt;/div&gt;&lt;div&gt;传感器类型&lt;/div&gt;&lt;div&gt;飞行性能&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="mPyzW_efLoA93d-QoDgi-12">
           <mxGeometry y="50" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-20" value="高光谱相机" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="740" width="160" height="140" as="geometry" />
+          <mxGeometry x="1190" y="770" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-21" value="集成方式&lt;div&gt;光学性能&lt;/div&gt;&lt;div&gt;镜头参数&lt;/div&gt;&lt;div&gt;存储容量&lt;/div&gt;&lt;div&gt;环境适配&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="mPyzW_efLoA93d-QoDgi-20">
           <mxGeometry y="50" width="160" height="90" as="geometry" />
