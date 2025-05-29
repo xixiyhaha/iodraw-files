@@ -319,17 +319,17 @@
         <mxCell id="mPyzW_efLoA93d-QoDgi-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-25" target="mPyzW_efLoA93d-QoDgi-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mPyzW_efLoA93d-QoDgi-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-25" target="mPyzW_efLoA93d-QoDgi-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-25" value="分发" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1450" y="490" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-17" target="mPyzW_efLoA93d-QoDgi-25">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-28" target="mPyzW_efLoA93d-QoDgi-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-28" value="初始参数数据" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="480" width="140" height="60" as="geometry" />
+          <mxGeometry x="1649" y="490" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-30" value="无人机操作员" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1630" y="770" width="160" height="140" as="geometry" />
@@ -341,7 +341,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-35" value="校准数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="1659" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.582;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-35" target="mPyzW_efLoA93d-QoDgi-30">
           <mxGeometry relative="1" as="geometry" />
