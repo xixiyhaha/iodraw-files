@@ -329,8 +329,14 @@
             <mxPoint x="1820" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mPyzW_efLoA93d-QoDgi-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-35" target="mPyzW_efLoA93d-QoDgi-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-35" value="校准数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1654" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mPyzW_efLoA93d-QoDgi-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.582;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-35" target="mPyzW_efLoA93d-QoDgi-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
