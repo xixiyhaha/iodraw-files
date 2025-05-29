@@ -404,12 +404,6 @@
             <mxPoint x="1310" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mPyzW_efLoA93d-QoDgi-92" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-41" target="mPyzW_efLoA93d-QoDgi-49">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1320" y="960" as="sourcePoint" />
-            <mxPoint x="1320" y="1050" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-94" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.009;entryY=0.343;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-52" target="mPyzW_efLoA93d-QoDgi-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1340" y="980" as="sourcePoint" />
@@ -469,6 +463,12 @@
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-113" value="指派" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1200" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mPyzW_efLoA93d-QoDgi-114" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mPyzW_efLoA93d-QoDgi-45" target="mPyzW_efLoA93d-QoDgi-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1990" y="40" as="sourcePoint" />
+            <mxPoint x="2066" y="41" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
