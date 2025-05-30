@@ -291,10 +291,10 @@
           <mxGeometry y="50" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-20" value="高光谱相机" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="755" width="160" height="140" as="geometry" />
+          <mxGeometry x="1180" y="755" width="160" height="145" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-21" value="&lt;div&gt;序列号&lt;/div&gt;集成方式&lt;div&gt;光学性能&lt;/div&gt;&lt;div&gt;镜头参数&lt;/div&gt;&lt;div&gt;存储容量&lt;/div&gt;&lt;div&gt;环境适配&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="mPyzW_efLoA93d-QoDgi-20" vertex="1">
-          <mxGeometry y="50" width="160" height="90" as="geometry" />
+          <mxGeometry y="50" width="160" height="95" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-22" value="搭载" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1200" y="630" width="120" height="60" as="geometry" />
@@ -336,10 +336,10 @@
           <mxGeometry x="1860" y="65" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-60" value="D2（系统初始光谱信息库）" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2062.5" y="755" width="150" height="170" as="geometry" />
+          <mxGeometry x="2062.5" y="755" width="167.5" height="170" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-61" value="数据ID（主键）&lt;div&gt;参数ID（外键）&lt;/div&gt;&lt;div&gt;任务ID&lt;span style=&quot;background-color: initial;&quot;&gt;（外键）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;二进制流&lt;/div&gt;&lt;div&gt;HDR元数据&lt;/div&gt;&lt;div&gt;创建时间&lt;/div&gt;&lt;div&gt;更新时间&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="mPyzW_efLoA93d-QoDgi-60" vertex="1">
-          <mxGeometry y="50" width="150" height="120" as="geometry" />
+          <mxGeometry y="50" width="167.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mPyzW_efLoA93d-QoDgi-65" value="上传数据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1639" y="805" width="120" height="60" as="geometry" />
