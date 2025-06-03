@@ -298,7 +298,7 @@
         <mxCell id="yPZvfwk8uGZWdBm8rr21-37" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;飞行任务&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; + field: type&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1490" y="1030" width="140" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="yPZvfwk8uGZWdBm8rr21-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="yPZvfwk8uGZWdBm8rr21-42" value="" style="endArrow=none;html=1;rounded=0;exitX=0.998;exitY=0.57;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.014;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yPZvfwk8uGZWdBm8rr21-32" target="yPZvfwk8uGZWdBm8rr21-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1550" y="710" as="sourcePoint" />
             <mxPoint x="1600" y="660" as="targetPoint" />
