@@ -397,10 +397,16 @@
         <mxCell id="yPZvfwk8uGZWdBm8rr21-59" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;数据库&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; + field: type&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1970" y="782" width="140" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="yPZvfwk8uGZWdBm8rr21-70" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="yPZvfwk8uGZWdBm8rr21-57">
+        <mxCell id="yPZvfwk8uGZWdBm8rr21-70" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yPZvfwk8uGZWdBm8rr21-56" target="yPZvfwk8uGZWdBm8rr21-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1670" y="580" as="sourcePoint" />
             <mxPoint x="1720" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yPZvfwk8uGZWdBm8rr21-72" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1710" y="582" as="sourcePoint" />
+            <mxPoint x="1710" y="519" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
