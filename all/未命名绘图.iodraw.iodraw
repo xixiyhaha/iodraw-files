@@ -262,8 +262,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yPZvfwk8uGZWdBm8rr21-1" value="Classname" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="1">
-          <mxGeometry x="360" y="52" width="160" height="110" as="geometry" />
+        <mxCell id="yPZvfwk8uGZWdBm8rr21-1" value="用户" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="52" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yPZvfwk8uGZWdBm8rr21-2" value="+ field: type" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yPZvfwk8uGZWdBm8rr21-1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
