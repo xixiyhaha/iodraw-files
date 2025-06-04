@@ -186,8 +186,8 @@
         <mxCell id="oQEPeVwp7jHpk37jiwjk-6" value="搭载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1675" y="1018" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oQEPeVwp7jHpk37jiwjk-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2045" y="828" width="50" height="30" as="geometry" />
+        <mxCell id="oQEPeVwp7jHpk37jiwjk-7" value="继承" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="828.96" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
