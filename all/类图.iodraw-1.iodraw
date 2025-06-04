@@ -180,6 +180,12 @@
         <mxCell id="oQEPeVwp7jHpk37jiwjk-4" value="上传" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1265" y="800" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="oQEPeVwp7jHpk37jiwjk-5" value="发布" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="1018" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oQEPeVwp7jHpk37jiwjk-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1675" y="1018" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
