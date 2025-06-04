@@ -192,7 +192,7 @@
         <mxCell id="oQEPeVwp7jHpk37jiwjk-8" value="继承" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2170" y="749.92" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oQEPeVwp7jHpk37jiwjk-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="oQEPeVwp7jHpk37jiwjk-9" value="调取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1675" y="708" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
