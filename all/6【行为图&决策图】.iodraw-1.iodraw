@@ -100,8 +100,8 @@
         <mxCell id="L1ua2iWBCavyxOVQg6Py-85" value="IF 上传成功&lt;span style=&quot;background-color: initial;&quot;&gt;本地缓存&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="710" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L1ua2iWBCavyxOVQg6Py-86" value="ELSE&lt;div&gt;缓存保留24h&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="204.5" y="815" width="77" height="30" as="geometry" />
+        <mxCell id="L1ua2iWBCavyxOVQg6Py-86" value="ELSE&lt;span style=&quot;background-color: initial;&quot;&gt;缓存保留24h&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="204.5" y="815" width="125.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-87" value="返航" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="735" width="60" height="30" as="geometry" />
