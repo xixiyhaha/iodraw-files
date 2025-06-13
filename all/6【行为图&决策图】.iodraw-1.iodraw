@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17" pages="4">
   <diagram name="数据处理正常" id="Lc2mCsExSHJEOqR6oyA3">
-    <mxGraphModel dx="1482" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2489" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,10 +146,10 @@
           <mxGeometry x="472" y="495" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fWk6aMuKjUrTwBXQ4J_f-7" value="传输数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="950" width="60" height="30" as="geometry" />
+          <mxGeometry x="486" y="542.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fWk6aMuKjUrTwBXQ4J_f-8" value="本地加密缓存" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="940" width="80" height="30" as="geometry" />
+          <mxGeometry x="486" y="585" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
