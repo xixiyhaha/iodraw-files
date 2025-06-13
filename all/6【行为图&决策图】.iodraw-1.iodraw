@@ -140,10 +140,13 @@
           <mxGeometry x="380" y="740" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fWk6aMuKjUrTwBXQ4J_f-4" value="数据校验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="622.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="80" y="700" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fWk6aMuKjUrTwBXQ4J_f-5" value="上传至地面站" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="900" width="110" height="30" as="geometry" />
+          <mxGeometry x="60" y="765" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fWk6aMuKjUrTwBXQ4J_f-6" value="电量检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="502" y="720" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
