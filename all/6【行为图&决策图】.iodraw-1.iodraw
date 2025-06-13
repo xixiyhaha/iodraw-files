@@ -83,7 +83,7 @@
           <mxGeometry x="477" y="487.5" width="50" height="135" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-80" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;高光谱分块连续捕获&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;传输数据&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;本地加密缓存&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="477.5" width="132" height="155" as="geometry" />
+          <mxGeometry x="480" y="490" width="132" height="142.5" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-81" value="数据后处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="735" width="65" height="30" as="geometry" />
