@@ -74,7 +74,7 @@
           <mxGeometry x="80" y="495" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-26" value="GENERATE&lt;div&gt;路径&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="87.5" y="575" width="60" height="30" as="geometry" />
+          <mxGeometry x="87.5" y="575" width="102.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-78" value="巡航阶段采集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="537.5" width="60" height="30" as="geometry" />
