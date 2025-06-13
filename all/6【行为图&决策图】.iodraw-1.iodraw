@@ -95,13 +95,13 @@
           <mxGeometry x="75" y="690" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-84" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="135" y="730" width="50" height="100" as="geometry" />
+          <mxGeometry x="160" y="730" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-85" value="IF 上传成功&lt;div&gt;本地缓存&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="185" y="710" width="66" height="30" as="geometry" />
+          <mxGeometry x="210" y="710" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-86" value="ELSE&lt;div&gt;缓存保留24h&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="179.5" y="815" width="77" height="30" as="geometry" />
+          <mxGeometry x="204.5" y="815" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-87" value="返航" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="735" width="60" height="30" as="geometry" />
