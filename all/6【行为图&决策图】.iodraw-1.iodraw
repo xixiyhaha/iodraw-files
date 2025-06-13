@@ -62,7 +62,7 @@
           <mxGeometry x="590" y="232.5" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-22" value="ELSE&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;PROCEED to step3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="585" y="345" width="165" height="30" as="geometry" />
+          <mxGeometry x="579" y="340" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-23" value="路径规划" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="15" y="535" width="60" height="30" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry x="535" y="655" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-92" value="IF 电量&amp;lt;20%&lt;div&gt;激活紧急降落&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="579" y="645" width="90" height="30" as="geometry" />
+          <mxGeometry x="579" y="645" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-93" value="ELSE&lt;div&gt;正常返航&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="585" y="740" width="60" height="30" as="geometry" />
