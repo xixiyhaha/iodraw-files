@@ -115,8 +115,8 @@
         <mxCell id="L1ua2iWBCavyxOVQg6Py-90" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="535" y="655" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="L1ua2iWBCavyxOVQg6Py-92" value="IF 电量&amp;lt;20%&lt;div&gt;激活紧急降落&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="579" y="645" width="161" height="30" as="geometry" />
+        <mxCell id="L1ua2iWBCavyxOVQg6Py-92" value="IF 电量&amp;lt;20%，&lt;span style=&quot;background-color: initial;&quot;&gt;激活紧急降落&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="645" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-93" value="ELSE&lt;div&gt;正常返航&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="585" y="740" width="60" height="30" as="geometry" />
