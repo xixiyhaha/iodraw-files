@@ -47,7 +47,7 @@
           <mxGeometry x="472" y="165" width="50" height="220" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-17" value="飞行前测试" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="255" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-18" value="低空悬停测试" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="180" width="60" height="30" as="geometry" />
