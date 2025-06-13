@@ -82,9 +82,6 @@
         <mxCell id="L1ua2iWBCavyxOVQg6Py-79" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="477" y="487.5" width="50" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="L1ua2iWBCavyxOVQg6Py-80" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;高光谱分块连续捕获&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;传输数据&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;本地加密缓存&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="490" width="132" height="142.5" as="geometry" />
-        </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-81" value="数据后处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="735" width="65" height="30" as="geometry" />
         </mxCell>
@@ -146,7 +143,7 @@
           <mxGeometry x="60" y="765" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fWk6aMuKjUrTwBXQ4J_f-6" value="高光谱分块连续捕获" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="890" width="150" height="30" as="geometry" />
+          <mxGeometry x="472" y="495" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fWk6aMuKjUrTwBXQ4J_f-7" value="传输数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="950" width="60" height="30" as="geometry" />
