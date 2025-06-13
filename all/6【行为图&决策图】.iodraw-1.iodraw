@@ -29,7 +29,7 @@
           <mxGeometry x="78" y="345" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-9" value="设备检查序列" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="15" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="50" y="250" width="25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-11" value="飞行高度：50-100m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="224.5" y="272.5" width="75" height="30" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry x="540" y="790" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7smJM5-Ty242Qs_mxILp-5" value="&lt;b&gt;1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-15" y="250" width="30" height="30" as="geometry" />
+          <mxGeometry x="-70" y="245" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7smJM5-Ty242Qs_mxILp-7" value="&lt;b&gt;2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="250" width="30" height="30" as="geometry" />
