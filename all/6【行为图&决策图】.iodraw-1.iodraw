@@ -77,7 +77,7 @@
           <mxGeometry x="87.5" y="575" width="102.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-78" value="巡航阶段采集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="542.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="395" y="542.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-79" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="477" y="487.5" width="50" height="135" as="geometry" />
