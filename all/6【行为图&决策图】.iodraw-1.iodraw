@@ -151,6 +151,9 @@
         <mxCell id="fWk6aMuKjUrTwBXQ4J_f-7" value="传输数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="950" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fWk6aMuKjUrTwBXQ4J_f-8" value="本地加密缓存" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="940" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
