@@ -142,6 +142,9 @@
         <mxCell id="7smJM5-Ty242Qs_mxILp-11" value="&lt;b&gt;6&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="740" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fWk6aMuKjUrTwBXQ4J_f-4" value="电量检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="910" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
