@@ -73,7 +73,7 @@
         <mxCell id="L1ua2iWBCavyxOVQg6Py-25" value="IMPORT&lt;span style=&quot;background-color: initial;&quot;&gt;目标区域坐标&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="495" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L1ua2iWBCavyxOVQg6Py-26" value="GENERATE&lt;div&gt;路径&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="L1ua2iWBCavyxOVQg6Py-26" value="GENERATE&lt;span style=&quot;background-color: initial;&quot;&gt;路径&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="87.5" y="575" width="102.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-78" value="巡航阶段采集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
