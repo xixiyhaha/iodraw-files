@@ -32,16 +32,16 @@
           <mxGeometry x="-30" y="245" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-11" value="飞行高度：50-100m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="224.5" y="272.5" width="75" height="30" as="geometry" />
+          <mxGeometry x="214.5" y="280" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-13" value="巡航速度：5-8m/s" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="227" y="337.5" width="65" height="30" as="geometry" />
+          <mxGeometry x="217" y="345" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-14" value="光谱范围：400-2500nm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="232" y="412.5" width="75" height="30" as="geometry" />
+          <mxGeometry x="222" y="420" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="282.5" width="50" height="140" as="geometry" />
+          <mxGeometry x="170" y="290" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="L1ua2iWBCavyxOVQg6Py-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="160" width="50" height="220" as="geometry" />
