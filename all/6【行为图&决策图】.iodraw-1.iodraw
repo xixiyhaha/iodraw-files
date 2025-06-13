@@ -145,8 +145,8 @@
         <mxCell id="fWk6aMuKjUrTwBXQ4J_f-5" value="上传至地面站" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="765" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fWk6aMuKjUrTwBXQ4J_f-6" value="电量检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="502" y="720" width="60" height="30" as="geometry" />
+        <mxCell id="fWk6aMuKjUrTwBXQ4J_f-6" value="高光谱分块连续捕获" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="890" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
