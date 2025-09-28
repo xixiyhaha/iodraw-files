@@ -214,7 +214,13 @@
           <mxGeometry x="670" y="390" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KtVCHyiNeaHKslYZuZN5-3" value="课程名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="390" width="120" height="50" as="geometry" />
+          <mxGeometry x="810" y="400" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KtVCHyiNeaHKslYZuZN5-4" value="课程名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="400" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KtVCHyiNeaHKslYZuZN5-5" value="课程名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="320" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
