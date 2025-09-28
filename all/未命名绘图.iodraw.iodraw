@@ -415,7 +415,7 @@
         <mxCell id="RYmVMI0QTuMXty9ZZ_fn-1" value="课程开设" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="530" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AXbVBnseoBY0DI377czp-1" value="课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AXbVBnseoBY0DI377czp-1" value="教学班" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AXbVBnseoBY0DI377czp-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RYmVMI0QTuMXty9ZZ_fn-1" target="4foJt5CcWn9nYExB4wUi-1">
@@ -433,8 +433,8 @@
         <mxCell id="AXbVBnseoBY0DI377czp-4" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="225" y="488" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AXbVBnseoBY0DI377czp-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="225" y="608" width="50" height="30" as="geometry" />
+        <mxCell id="AXbVBnseoBY0DI377czp-5" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="620" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
