@@ -440,7 +440,7 @@
           <mxGeometry x="520" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3U064t9hq7mcoPvj5IY9-2" value="专业选择" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="410" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="660" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
