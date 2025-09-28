@@ -415,7 +415,7 @@
         <mxCell id="4foJt5CcWn9nYExB4wUi-1" value="专业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4foJt5CcWn9nYExB4wUi-2" value="开设" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4foJt5CcWn9nYExB4wUi-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;开设&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4foJt5CcWn9nYExB4wUi-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4foJt5CcWn9nYExB4wUi-2" target="qiv5lWvFyyAPRp1VGdgc-1">
@@ -574,7 +574,7 @@
         <mxCell id="3U064t9hq7mcoPvj5IY9-16" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="760" y="680" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AhlQ20jcdyRnQrj1G1Wo-1" value="班级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AhlQ20jcdyRnQrj1G1Wo-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;班级&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="258" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AhlQ20jcdyRnQrj1G1Wo-2" value="选班" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -625,7 +625,7 @@
         <mxCell id="woL1B2Yt9Wso9rUrFWKJ-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;研究生&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="woL1B2Yt9Wso9rUrFWKJ-2" value="选择" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="woL1B2Yt9Wso9rUrFWKJ-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;选择&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="woL1B2Yt9Wso9rUrFWKJ-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="woL1B2Yt9Wso9rUrFWKJ-2" target="woL1B2Yt9Wso9rUrFWKJ-1">
