@@ -61,7 +61,7 @@
           <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTalX0vTgKHuvv3sY2fH-2" value="课程名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="380" width="120" height="50" as="geometry" />
+          <mxGeometry x="230" y="370" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UTalX0vTgKHuvv3sY2fH-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UTalX0vTgKHuvv3sY2fH-1" target="UTalX0vTgKHuvv3sY2fH-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -72,11 +72,14 @@
         <mxCell id="UTalX0vTgKHuvv3sY2fH-4" value="班级名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="390" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UTalX0vTgKHuvv3sY2fH-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="UTalX0vTgKHuvv3sY2fH-1">
+        <mxCell id="UTalX0vTgKHuvv3sY2fH-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UTalX0vTgKHuvv3sY2fH-4" target="UTalX0vTgKHuvv3sY2fH-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="80" as="sourcePoint" />
             <mxPoint x="310" y="140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UTalX0vTgKHuvv3sY2fH-6" value="班级名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="350" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
