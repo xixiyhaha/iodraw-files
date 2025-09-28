@@ -508,7 +508,7 @@
         <mxCell id="AXbVBnseoBY0DI377czp-5" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="225" y="620" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3U064t9hq7mcoPvj5IY9-1" value="课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3U064t9hq7mcoPvj5IY9-1" value="教学班" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3U064t9hq7mcoPvj5IY9-2" value="课程开设" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
