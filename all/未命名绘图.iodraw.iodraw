@@ -895,6 +895,12 @@
         <mxCell id="QVK1IflY1xhHR9WnU_4E-1" value="&lt;u&gt;职工号&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="694.5" y="-10" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="B8EB2G00OV2OfRXOPNCI-1" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-22" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vZpc6v_nQ3n3nBoVjcxF-1" value="职称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="10" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
