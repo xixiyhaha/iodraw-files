@@ -65,7 +65,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vbGNUqnnF3buIrU492-e-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vbGNUqnnF3buIrU492-e-1" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
