@@ -593,7 +593,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AhlQ20jcdyRnQrj1G1Wo-5" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="305" width="30" height="30" as="geometry" />
+          <mxGeometry x="710" y="305" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AhlQ20jcdyRnQrj1G1Wo-6" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="368" width="30" height="30" as="geometry" />
@@ -650,7 +650,7 @@
           <mxGeometry x="690" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wi9s4cjPq0LLku8QghSC-1" value="教室" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wi9s4cjPq0LLku8QghSC-2" value="排课" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="780" width="80" height="80" as="geometry" />
