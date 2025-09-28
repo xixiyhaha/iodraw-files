@@ -31,6 +31,9 @@
         <mxCell id="XPw7uZCGgD8KXrF2fwkC-1" value="教室" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XPw7uZCGgD8KXrF2fwkC-2" value="时间片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
