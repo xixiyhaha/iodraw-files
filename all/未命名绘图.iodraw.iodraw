@@ -569,13 +569,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3U064t9hq7mcoPvj5IY9-15" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="870" y="380" width="30" height="30" as="geometry" />
+          <mxGeometry x="890" y="400" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3U064t9hq7mcoPvj5IY9-16" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="720" y="600" width="30" height="30" as="geometry" />
+          <mxGeometry x="760" y="680" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AhlQ20jcdyRnQrj1G1Wo-1" value="班级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="258" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AhlQ20jcdyRnQrj1G1Wo-2" value="选班" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="318" width="80" height="80" as="geometry" />
