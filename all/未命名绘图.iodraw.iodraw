@@ -683,7 +683,7 @@
           <mxGeometry x="635" y="790" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m-MMmDJ_rWUEptQbaYsF-1" value="先修课" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="780" width="150" height="80" as="geometry" />
+          <mxGeometry x="180" y="790" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m-MMmDJ_rWUEptQbaYsF-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m-MMmDJ_rWUEptQbaYsF-1" target="AXbVBnseoBY0DI377czp-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
