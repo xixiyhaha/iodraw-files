@@ -485,7 +485,7 @@
           <mxGeometry x="660" y="170" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RYmVMI0QTuMXty9ZZ_fn-1" value="教学班设置" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="540" width="120" height="70" as="geometry" />
+          <mxGeometry x="160" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AXbVBnseoBY0DI377czp-1" value="课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="670" width="120" height="60" as="geometry" />
@@ -527,7 +527,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3U064t9hq7mcoPvj5IY9-5" value="选课" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="530" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3U064t9hq7mcoPvj5IY9-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3U064t9hq7mcoPvj5IY9-5" target="rUmGBr3BbAoSRj2dclo_-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
