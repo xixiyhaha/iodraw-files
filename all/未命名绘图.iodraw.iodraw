@@ -11,10 +11,10 @@
           <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BfHFOxobi2eVOKjxfqWk-4" value="教研室" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BfHFOxobi2eVOKjxfqWk-5" value="教授" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BfHFOxobi2eVOKjxfqWk-6" value="副教授" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="300" width="120" height="60" as="geometry" />
@@ -34,7 +34,7 @@
         <mxCell id="XPw7uZCGgD8KXrF2fwkC-2" value="时间片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="14zLE72iHYfQul7r5hQ5-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="14zLE72iHYfQul7r5hQ5-2" value="教学班" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
