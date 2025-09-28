@@ -118,7 +118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5fDqPFItqcJUUOgfHuMY-4" value="人数上限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="620" width="120" height="50" as="geometry" />
+          <mxGeometry x="354" y="640" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5fDqPFItqcJUUOgfHuMY-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5fDqPFItqcJUUOgfHuMY-4" target="5fDqPFItqcJUUOgfHuMY-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -127,9 +127,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5fDqPFItqcJUUOgfHuMY-6" value="开课学期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="610" width="120" height="50" as="geometry" />
+          <mxGeometry x="470" y="610" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5fDqPFItqcJUUOgfHuMY-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="5fDqPFItqcJUUOgfHuMY-1">
+        <mxCell id="5fDqPFItqcJUUOgfHuMY-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5fDqPFItqcJUUOgfHuMY-6" target="5fDqPFItqcJUUOgfHuMY-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="620" as="sourcePoint" />
             <mxPoint x="450" y="570" as="targetPoint" />
@@ -172,6 +172,9 @@
             <mxPoint x="180" y="220" as="sourcePoint" />
             <mxPoint x="270" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-p3q5CJna0-O5BGaywWQ-1" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
