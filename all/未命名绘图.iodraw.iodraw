@@ -487,7 +487,7 @@
             <mxPoint x="810" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3U064t9hq7mcoPvj5IY9-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3U064t9hq7mcoPvj5IY9-13" value="授课" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="530" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3U064t9hq7mcoPvj5IY9-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3U064t9hq7mcoPvj5IY9-1" target="3U064t9hq7mcoPvj5IY9-13">
@@ -495,6 +495,9 @@
             <mxPoint x="750" y="770" as="sourcePoint" />
             <mxPoint x="800" y="720" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3U064t9hq7mcoPvj5IY9-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="805" y="258" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
