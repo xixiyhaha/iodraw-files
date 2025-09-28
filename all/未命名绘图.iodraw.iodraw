@@ -527,7 +527,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3U064t9hq7mcoPvj5IY9-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;选课&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3U064t9hq7mcoPvj5IY9-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3U064t9hq7mcoPvj5IY9-5" target="rUmGBr3BbAoSRj2dclo_-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -704,7 +704,7 @@
           <mxGeometry x="255" y="810" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4RXy9HSY2qXAJmO8_JPL-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;成绩&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="545" width="120" height="50" as="geometry" />
+          <mxGeometry x="564.5" y="535" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4RXy9HSY2qXAJmO8_JPL-2" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4RXy9HSY2qXAJmO8_JPL-1" target="3U064t9hq7mcoPvj5IY9-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -731,7 +731,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2i7_4rvzpjN3rr4PSxOg-1" value="&lt;u&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;教学班号&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="660" width="120" height="50" as="geometry" />
+          <mxGeometry x="740" y="660" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sws3V54me7j9dPq5oWpt-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;人数上限&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="660" width="120" height="50" as="geometry" />
