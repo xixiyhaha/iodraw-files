@@ -685,6 +685,12 @@
         <mxCell id="m-MMmDJ_rWUEptQbaYsF-1" value="先修课" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="780" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="m-MMmDJ_rWUEptQbaYsF-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.36;entryY=0.958;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="m-MMmDJ_rWUEptQbaYsF-1" target="AXbVBnseoBY0DI377czp-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="780" as="sourcePoint" />
+            <mxPoint x="180" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
