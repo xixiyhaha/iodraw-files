@@ -820,6 +820,9 @@
             <mxPoint x="650" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="H-BlyA5lpXa9haYn4MaD-1" value="课程名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="660" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
