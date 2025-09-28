@@ -649,7 +649,7 @@
         <mxCell id="WntDeKk0McoBbKGwwOXv-1" value="时间片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wi9s4cjPq0LLku8QghSC-1" value="教室" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Wi9s4cjPq0LLku8QghSC-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;教室&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wi9s4cjPq0LLku8QghSC-2" value="排课" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -682,7 +682,7 @@
         <mxCell id="Wi9s4cjPq0LLku8QghSC-8" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="635" y="790" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m-MMmDJ_rWUEptQbaYsF-1" value="先修课" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m-MMmDJ_rWUEptQbaYsF-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;先修课&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="780" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m-MMmDJ_rWUEptQbaYsF-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.287;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="m-MMmDJ_rWUEptQbaYsF-1" target="AXbVBnseoBY0DI377czp-1">
