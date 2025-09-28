@@ -367,6 +367,9 @@
         <mxCell id="4foJt5CcWn9nYExB4wUi-7" value="专业选择" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="400" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="rUmGBr3BbAoSRj2dclo_-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
