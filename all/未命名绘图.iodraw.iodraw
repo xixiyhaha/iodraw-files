@@ -210,7 +210,7 @@
         <mxCell id="KtVCHyiNeaHKslYZuZN5-1" value="时间片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KtVCHyiNeaHKslYZuZN5-2" value="课程名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KtVCHyiNeaHKslYZuZN5-2" value="时间片编码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="390" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KtVCHyiNeaHKslYZuZN5-3" value="课程名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
