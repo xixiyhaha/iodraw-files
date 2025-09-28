@@ -216,13 +216,13 @@
           <mxGeometry x="230" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-p3q5CJna0-O5BGaywWQ-2" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="590" width="120" height="50" as="geometry" />
+          <mxGeometry x="220" y="585" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-p3q5CJna0-O5BGaywWQ-3" value="学号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="540" width="120" height="50" as="geometry" />
+          <mxGeometry x="440" y="490" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-p3q5CJna0-O5BGaywWQ-5" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="560" width="120" height="50" as="geometry" />
+          <mxGeometry x="100" y="580" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-p3q5CJna0-O5BGaywWQ-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-p3q5CJna0-O5BGaywWQ-5" target="-p3q5CJna0-O5BGaywWQ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -252,7 +252,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="atC7o3yTKfLM7dbW3bcC-1" value="年级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="585" width="120" height="50" as="geometry" />
+          <mxGeometry x="354" y="570" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="atC7o3yTKfLM7dbW3bcC-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="atC7o3yTKfLM7dbW3bcC-1" target="-p3q5CJna0-O5BGaywWQ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
