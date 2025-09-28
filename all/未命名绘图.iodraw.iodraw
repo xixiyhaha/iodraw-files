@@ -242,6 +242,9 @@
             <mxPoint x="170" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="atC7o3yTKfLM7dbW3bcC-1" value="年级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="585" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
