@@ -533,10 +533,10 @@
           <mxGeometry x="710" y="650" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AhlQ20jcdyRnQrj1G1Wo-1" value="班级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AhlQ20jcdyRnQrj1G1Wo-2" value="选班" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="310" width="80" height="80" as="geometry" />
+          <mxGeometry x="610" y="318" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AhlQ20jcdyRnQrj1G1Wo-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rUmGBr3BbAoSRj2dclo_-1" target="AhlQ20jcdyRnQrj1G1Wo-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
