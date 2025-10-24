@@ -80,8 +80,8 @@
         <mxCell id="YNTSdGFBrq5eCNRUFCgT-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;更新零钱数量&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YNTSdGFBrq5eCNRUFCgT-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="1340" width="120" height="60" as="geometry" />
+        <mxCell id="YNTSdGFBrq5eCNRUFCgT-37" value="指示灯不亮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
