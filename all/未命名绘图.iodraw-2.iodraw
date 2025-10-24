@@ -65,6 +65,9 @@
         <mxCell id="YNTSdGFBrq5eCNRUFCgT-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;找零&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="547.5" y="850" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YNTSdGFBrq5eCNRUFCgT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YNTSdGFBrq5eCNRUFCgT-28" target="YNTSdGFBrq5eCNRUFCgT-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YNTSdGFBrq5eCNRUFCgT-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;判断能否&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;找零&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="1200" width="110" height="80" as="geometry" />
         </mxCell>
@@ -80,7 +83,7 @@
         <mxCell id="YNTSdGFBrq5eCNRUFCgT-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;更新零钱数量&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YNTSdGFBrq5eCNRUFCgT-37" value="指示灯不亮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YNTSdGFBrq5eCNRUFCgT-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;指示灯不亮&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
