@@ -28,6 +28,9 @@
         <mxCell id="YNTSdGFBrq5eCNRUFCgT-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;顾客选择饮料&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="580" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YNTSdGFBrq5eCNRUFCgT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YNTSdGFBrq5eCNRUFCgT-10" target="YNTSdGFBrq5eCNRUFCgT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YNTSdGFBrq5eCNRUFCgT-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;判断是否&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;需要找零&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="690" width="110" height="80" as="geometry" />
         </mxCell>
