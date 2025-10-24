@@ -89,7 +89,7 @@
         <mxCell id="YNTSdGFBrq5eCNRUFCgT-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;指示灯不亮&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YNTSdGFBrq5eCNRUFCgT-41" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YNTSdGFBrq5eCNRUFCgT-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;询问是否结束&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="1460" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
