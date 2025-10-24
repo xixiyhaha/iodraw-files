@@ -38,9 +38,9 @@
           <mxGeometry x="345" y="690" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YNTSdGFBrq5eCNRUFCgT-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;送出饮料&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YNTSdGFBrq5eCNRUFCgT-18" value="能否找零" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YNTSdGFBrq5eCNRUFCgT-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;能否找零&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="780" width="115" height="80" as="geometry" />
         </mxCell>
       </root>
