@@ -104,7 +104,7 @@
           <mxGeometry x="460" y="200" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GGgzD8D8nN7C6dUXLew0-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.3;endAngle=0.9262081911747834;rotation=75;" vertex="1" parent="1">
-          <mxGeometry x="442.15" y="479.32" width="50" height="60" as="geometry" />
+          <mxGeometry x="550" y="545" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
