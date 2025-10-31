@@ -175,8 +175,8 @@
             <mxPoint x="450" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x89ro5rk_KU2ndMN9D61-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.3;endAngle=0.8759530122208987;rotation=30;" vertex="1" parent="1">
-          <mxGeometry x="551.12" y="180.44" width="54.49" height="54.6" as="geometry" />
+        <mxCell id="x89ro5rk_KU2ndMN9D61-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.3;endAngle=0.8759530122208987;rotation=35;" vertex="1" parent="1">
+          <mxGeometry x="553.12" y="179.44" width="54.49" height="54.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
