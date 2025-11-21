@@ -49,6 +49,9 @@
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-17" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="345" y="378" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VK9T7aZlu_UmzyTXEW4E-18" value="pay = 40 * wage + overtime * wage * 2;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
