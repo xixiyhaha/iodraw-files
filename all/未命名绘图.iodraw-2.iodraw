@@ -28,6 +28,9 @@
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-7" value="time&amp;lt;=40?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="235" width="150" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="VK9T7aZlu_UmzyTXEW4E-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VK9T7aZlu_UmzyTXEW4E-10" target="VK9T7aZlu_UmzyTXEW4E-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-10" value="time&amp;lt;=50?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="370" width="150" height="70" as="geometry" />
         </mxCell>
@@ -42,6 +45,9 @@
         </mxCell>
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-15" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="328" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VK9T7aZlu_UmzyTXEW4E-17" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="378" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
