@@ -80,8 +80,8 @@
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VK9T7aZlu_UmzyTXEW4E-20" target="VK9T7aZlu_UmzyTXEW4E-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="695" />
-              <mxPoint x="130" y="950" />
+              <mxPoint x="100" y="695" />
+              <mxPoint x="100" y="950" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -105,6 +105,9 @@
         </mxCell>
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-32" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="175" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VK9T7aZlu_UmzyTXEW4E-35" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="778" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
