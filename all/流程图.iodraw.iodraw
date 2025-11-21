@@ -32,7 +32,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VK9T7aZlu_UmzyTXEW4E-6" value="超出的部分按 2 倍工资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VK9T7aZlu_UmzyTXEW4E-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;超出的部分按 2 倍工资&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="375" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VK9T7aZlu_UmzyTXEW4E-7" target="VK9T7aZlu_UmzyTXEW4E-3">
@@ -71,7 +71,7 @@
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VK9T7aZlu_UmzyTXEW4E-18" target="VK9T7aZlu_UmzyTXEW4E-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VK9T7aZlu_UmzyTXEW4E-18" value="&lt;div&gt;pay = 40 * wage&lt;span style=&quot;background-color: initial;&quot;&gt;+overtime2x * wage * 2&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ overtime3x* wage * 3;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VK9T7aZlu_UmzyTXEW4E-18" value="40~50 小时按 2 倍，&amp;gt;50 的部分按 3 倍" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VK9T7aZlu_UmzyTXEW4E-20" target="VK9T7aZlu_UmzyTXEW4E-25">
