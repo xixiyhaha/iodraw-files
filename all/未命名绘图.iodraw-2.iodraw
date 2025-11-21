@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-1" value="wage&amp;gt;=120?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="110" width="150" height="80" as="geometry" />
+          <mxGeometry x="160" y="110" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VK9T7aZlu_UmzyTXEW4E-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
