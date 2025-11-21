@@ -65,8 +65,8 @@
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-15" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="328" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VK9T7aZlu_UmzyTXEW4E-17" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="345" y="378" width="30" height="30" as="geometry" />
+        <mxCell id="VK9T7aZlu_UmzyTXEW4E-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;T&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="373" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VK9T7aZlu_UmzyTXEW4E-18" target="VK9T7aZlu_UmzyTXEW4E-20">
           <mxGeometry relative="1" as="geometry" />
