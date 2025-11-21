@@ -13,6 +13,9 @@
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-1" value="wage&amp;gt;=120?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="110" width="150" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="VK9T7aZlu_UmzyTXEW4E-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VK9T7aZlu_UmzyTXEW4E-3" target="VK9T7aZlu_UmzyTXEW4E-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-3" value="pay = time * wage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -34,7 +37,7 @@
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VK9T7aZlu_UmzyTXEW4E-10" target="VK9T7aZlu_UmzyTXEW4E-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VK9T7aZlu_UmzyTXEW4E-10" value="pay = 40 * wage&#xa;                        + overtime2x * wage * 2&#xa;                        + overtime3x * wage * 3;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VK9T7aZlu_UmzyTXEW4E-10" value="time&amp;lt;=50?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="370" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-12" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -54,6 +57,9 @@
         </mxCell>
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-18" value="&lt;div&gt;pay = 40 * wage&lt;span style=&quot;background-color: initial;&quot;&gt;+overtime2x * wage * 2&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ overtime3x* wage * 3;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VK9T7aZlu_UmzyTXEW4E-20" value="time&amp;lt;=50?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="660" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
