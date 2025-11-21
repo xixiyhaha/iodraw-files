@@ -13,13 +13,8 @@
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-1" value="wage&amp;gt;=120?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="110" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VK9T7aZlu_UmzyTXEW4E-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VK9T7aZlu_UmzyTXEW4E-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="235" y="600" as="targetPoint" />
-            <Array as="points">
-              <mxPoint y="695" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="VK9T7aZlu_UmzyTXEW4E-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VK9T7aZlu_UmzyTXEW4E-3" target="VK9T7aZlu_UmzyTXEW4E-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-3" value="pay = time * wage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="240" width="120" height="60" as="geometry" />
