@@ -77,6 +77,14 @@
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VK9T7aZlu_UmzyTXEW4E-20" target="VK9T7aZlu_UmzyTXEW4E-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VK9T7aZlu_UmzyTXEW4E-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VK9T7aZlu_UmzyTXEW4E-20" target="VK9T7aZlu_UmzyTXEW4E-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="695" />
+              <mxPoint x="130" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-20" value="pay&amp;gt;5000?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="660" width="150" height="70" as="geometry" />
         </mxCell>
