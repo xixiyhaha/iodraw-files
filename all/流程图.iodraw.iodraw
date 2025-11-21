@@ -81,19 +81,16 @@
           <mxGeometry x="160" y="660" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-25" value="pay=5000" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="175" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-27" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="730" width="30" height="30" as="geometry" />
+          <mxGeometry x="195" y="748" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VK9T7aZlu_UmzyTXEW4E-28" target="VK9T7aZlu_UmzyTXEW4E-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-28" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VK9T7aZlu_UmzyTXEW4E-31" value="pay=5000" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
