@@ -13,6 +13,9 @@
         <mxCell id="VK9T7aZlu_UmzyTXEW4E-3" value="pay = time * wage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VK9T7aZlu_UmzyTXEW4E-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
